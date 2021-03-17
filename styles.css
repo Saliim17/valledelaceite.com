@@ -1,0 +1,173 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.packs {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1024px;
+    width: 100%;
+    margin: auto;
+}
+
+h1 {
+    width: 90%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.texto-imagen {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.imagen {
+    width: 50%;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.texto {
+    width: calc(50% - 40px);
+    margin: auto;
+    padding: 20px;
+}
+
+h2 {
+    width: 90%;
+    text-align: center;
+    margin: 20px auto;
+    color: #e62a21;
+}
+
+.variadades {
+    background: #f2f2f2;
+    padding: 40px 0;
+}
+
+.imagenes {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.contenido-variedades {
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+}
+
+.monodosis {
+    width: 30%;
+    margin: 10px auto;
+}
+
+.texto h2 {
+    text-align: left;
+    width: 100%;
+}
+
+h4 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.footer {
+    background: #e62a21;
+    color: white;
+    width: 100%;
+    padding: 40px 0 20px 0;
+    text-align: center;
+}
+
+header {
+    background: #e62a21;
+    padding: 10px 0;
+}
+
+.llama a {
+    background: #333;
+    display: flex;
+    width: max-content;
+    max-width: calc(100% - 60px);
+    margin: 30px auto;
+    border-radius: 25px;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 0 0 5px #333;
+}
+
+.llama a img {
+    margin: auto 10px auto auto;
+}
+
+.llama a p {
+    margin: auto auto auto 10px;
+    font-weight: 500;
+}
+
+.enlaces {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    max-width: 900px;
+    margin: auto;
+}
+
+.enlaces a {
+    color: white;
+    display: flex;
+    text-decoration: none;
+}
+
+.enlaces a .fa {
+    display: block;
+    margin: auto 10px;
+}
+
+@media (max-width: 768px) {
+    .texto {
+        width: calc(100% - 40px);
+    }
+    
+    .monodosis {
+        width: 90%;
+    }
+    
+    .llama h3 {
+        width: 90%;
+        margin: auto;
+    }
+    
+    .enlaces a .fa {
+        margin: 0 auto auto 10px;
+        width: 10%;
+        text-align: center;
+    }
+    
+    .enlaces a p {
+        margin: 0 auto auto 10px;
+        width: 90%;
+    }
+    
+    .enlaces a {
+        width: 90%;
+        text-align: left;
+    }
+
+    .imagen {
+        width: 100%;
+    }
+}

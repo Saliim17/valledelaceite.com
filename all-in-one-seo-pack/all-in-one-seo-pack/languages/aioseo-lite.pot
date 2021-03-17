@@ -1,0 +1,6058 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot-aioseo\n"
+
+#: src/vue/pages/seo-analysis/router/paths.js:19
+msgid "SEO Audit Checklist"
+msgstr ""
+
+#: src/vue/pages/seo-analysis/router/paths.js:28
+msgid "Analyze Competitor Site"
+msgstr ""
+
+#: src/vue/pages/about/router/paths.js:19
+msgid "About Us"
+msgstr ""
+
+#: src/vue/pages/about/router/paths.js:28
+msgid "Getting Started"
+msgstr ""
+
+#: src/vue/pages/about/router/paths.js:37
+msgid "Lite vs. Pro"
+msgstr ""
+
+#: src/vue/pages/search-appearance/router/paths.js:19
+msgid "Global Settings"
+msgstr ""
+
+#: src/vue/pages/search-appearance/router/paths.js:28
+msgid "Content Types"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:137
+msgid "Taxonomies"
+msgstr ""
+
+#: src/vue/pages/search-appearance/router/paths.js:46
+msgid "Media"
+msgstr ""
+
+#: src/vue/pages/search-appearance/router/paths.js:55
+msgid "Archives"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Media.vue:127
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:120
+msgid "Advanced"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO").
+#: src/vue/pages/connect/router/paths.js:20
+msgid "Connect with %1$s"
+msgstr ""
+
+#: src/vue/router/index.js:51
+msgid "Are you sure you want to leave? you have unsaved changes!"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:210
+msgid "Dashboard"
+msgstr ""
+
+#: src/vue/pages/post-settings/registerScoreToggler.js:21
+msgid "N/A"
+msgstr ""
+
+#: src/vue/pages/social-networks/router/paths.js:19
+msgid "Social Profiles"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Social.vue:65
+#: src/vue/pages/social-networks/router/paths.js:28
+msgid "Facebook"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Social.vue:69
+#: src/vue/pages/social-networks/router/paths.js:37
+msgid "Twitter"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Pinterest.vue:45
+msgid "Pinterest"
+msgstr ""
+
+#: src/vue/pages/local-seo/router/paths.js:19
+msgid "Locations"
+msgstr ""
+
+#: src/vue/pages/local-seo/router/paths.js:28
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:292
+msgid "Opening Hours"
+msgstr ""
+
+#: src/vue/pages/feature-manager/router/paths.js:19
+msgid "Feature Manager"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Main.vue:20
+msgid "Analytics"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:236
+msgid "Robots.txt Editor"
+msgstr ""
+
+#: src/vue/pages/tools/router/paths.js:28
+#: src/vue/pages/tools/views/HtaccessEditor.vue:40
+msgid ".htaccess Editor"
+msgstr ""
+
+#: src/vue/pages/tools/router/paths.js:37
+msgid "Bad Bot Blocker"
+msgstr ""
+
+#: src/vue/pages/tools/router/paths.js:46
+msgid "Import/Export"
+msgstr ""
+
+#: src/vue/pages/tools/router/paths.js:55
+msgid "Database Tools"
+msgstr ""
+
+#: src/vue/pages/tools/router/paths.js:64
+msgid "System Status"
+msgstr ""
+
+#: src/vue/pages/settings/router/paths.js:19
+msgid "General Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:118
+msgid "Webmaster Tools"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:119
+msgid "RSS Content"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:128
+msgid "Access Control"
+msgstr ""
+
+#: src/vue/pages/sitemaps/router/paths.js:19
+msgid "General Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/VideoSitemap.js:9
+msgid "Video Sitemap"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:151
+msgid "News Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:124
+msgid "RSS Sitemap"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/router/paths.js:19
+msgid "Welcome"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:127
+msgid "Import"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:371
+msgid "Category"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/AdditionalInformation.vue:315
+msgid "Additional Site Information"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/router/paths.js:55
+msgid "Choose Features"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:121
+msgid "Search Appearance"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/router/paths.js:73
+msgid "Smart Recommendations"
+msgstr ""
+
+#: src/vue/components/lite/settings/LicenseKey.vue:58
+msgid "License Key"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/router/paths.js:91
+msgid "Success"
+msgstr ""
+
+#: src/vue/pages/posts-table/TermApp.vue:113
+msgid "Title:"
+msgstr ""
+
+#: src/vue/pages/posts-table/TermApp.vue:114
+msgid "Description:"
+msgstr ""
+
+#: src/vue/pages/posts-table/TermApp.vue:115
+msgid "Edit"
+msgstr ""
+
+#: src/vue/pages/posts-table/TermApp.vue:116
+msgid "Save"
+msgstr ""
+
+#: src/vue/pages/posts-table/TermApp.vue:117
+msgid "Cancel"
+msgstr ""
+
+#: src/vue/pages/posts-table/TermApp.vue:118
+msgid "Please wait..."
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO"), 2 - Same as previous.
+#: src/vue/pages/about/views/AboutUs.vue:118
+msgid ""
+"Welcome to %1$s, the original SEO plugin for WordPress. At %2$s, we build "
+"software that helps you rank your website in search results and gain "
+"organic traffic."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:119
+msgid ""
+"Over the years, we found that most other WordPress SEO plugins were "
+"bloated, buggy, slow, and very hard to use. So we designed our plugin as an "
+"easy and powerful tool."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:120
+msgid ""
+"Our goal is to take the pain out of optimizing your website for search "
+"engines."
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO"), 2 - Company name ("Awesome Motive").
+#: src/vue/pages/about/views/AboutUs.vue:122
+msgid ""
+"%1$s is brought to you by %2$s, the same team that’s behind the largest "
+"WordPress resource site, WPBeginner, the most popular lead-generation "
+"software, OptinMonster, the best WordPress analytics plugin, "
+"MonsterInsights and many more."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:123
+msgid ""
+"Yup, we know a thing or two about building awesome products that customers "
+"love."
+msgstr ""
+
+# Translators: 1 - Company name ("Awesome Motive").
+#: src/vue/pages/about/views/AboutUs.vue:125
+msgid "The %1$s Team"
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:129
+msgid "Install Plugin"
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:130
+msgid "Activate"
+msgstr ""
+
+#: src/vue/components/common/core/FeatureCard.vue:124
+msgid "Manage"
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:133
+msgid "Status:"
+msgstr ""
+
+#: src/vue/components/common/core/FeatureCard.vue:119
+msgid "Activated"
+msgstr ""
+
+#: src/vue/components/common/core/FeatureCard.vue:120
+msgid "Deactivated"
+msgstr ""
+
+#: src/vue/components/common/core/FeatureCard.vue:121
+msgid "Not Installed"
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:144
+msgid ""
+"Our high-converting optin forms like Exit-Intent® popups, Fullscreen "
+"Welcome Mats, and Scroll boxes help you dramatically boost conversions and "
+"get more email subscribers."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:153
+msgid ""
+"WPForms allows you to create beautiful contact forms for your site in "
+"minutes, not hours!"
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:170
+msgid ""
+"MonsterInsights makes it “effortless” to properly connect your WordPress "
+"site with Google Analytics, so you can start making data-driven decisions "
+"to grow your business."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:187
+msgid ""
+"The ExactMetrics Google Analytics for WordPress plugin helps you properly "
+"setup all the powerful Google Analytics tracking features without writing "
+"any code or hiring a developer."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:204
+msgid ""
+"Make sure your website's emails reach the inbox. Our goal is to make email "
+"deliverability easy and reliable. Trusted by over 1 million websites."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:221
+msgid ""
+"Create a simple Coming Soon Page, Under Construction or Maintenance Mode "
+"Page. Work on your site in private while visitors see a “Coming Soon” or "
+"“Maintenance Mode” page."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:238
+msgid ""
+"TrustPulse uses FOMO (Fear of Missing Out) to boost your sales and "
+"conversions with social proof notifications. Use it to boost sales on your "
+"Woocommerce store, increase signups on your membership site, get more email "
+"subscribers, and more."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:247
+msgid ""
+"Turn your visitors into brand ambassadors! Easily grow your email list, "
+"website traffic, and social media followers with powerful viral giveaways & "
+"contests."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:264
+msgid ""
+"Display completely customizable Facebook feeds of any public Facebook page "
+"or Group."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:281
+msgid ""
+"Display beautifully clean, customizable, and responsive Instagram feeds "
+"from multiple Instagram accounts."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:298
+msgid ""
+"Display completely customizable, responsive and search engine crawlable "
+"Twitter feeds on your website."
+msgstr ""
+
+#: src/vue/pages/about/views/AboutUs.vue:315
+msgid ""
+"The Feeds for YouTube plugin allows you to display customizable YouTube "
+"feeds from any YouTube channel."
+msgstr ""
+
+#: src/vue/pages/posts-table/App.vue:220
+msgid "Image Title:"
+msgstr ""
+
+#: src/vue/pages/posts-table/App.vue:221
+msgid "Image Alt Tag:"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:109
+msgid "Social Meta (Open Graph Markup)"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:112
+msgid "Posts, Pages and Custom Post Types Only"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:116
+msgid "Posts, Pages, Custom Post Types + Categories, Tags and Custom Taxonomies"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:120
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:123
+msgid "WooCommerce Products Only"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:127
+msgid ""
+"WooCommerce Products, Product Categories, Product Tags and Other Product "
+"Attributes"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:131
+msgid "XML Sitemap"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:134
+msgid "Basic Control of Sitemap Priority & Frequency"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:138
+msgid ""
+"Granular Control of Sitemap Priority & Frequency for Each Post, Page, "
+"Category, Tag, etc."
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:142
+msgid "Video XML Sitemap"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:147
+msgid "Submit Your Videos to Search Engines"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:156
+msgid "Submit Your Latest News Stories to Google News (Business & Agency tier only)"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:160
+#: src/vue/pages/search-appearance/views/Media.vue:110
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:132
+msgid "Image SEO"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:162
+msgid "Not Available"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:165
+msgid ""
+"Control The Title & Alt Tag Attribute of Your Images (Business & Agency "
+"tier only)"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:169
+msgid "Schema Rich Snippets"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:172
+msgid "Posts, Pages, Categories and Tags Only"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:175
+msgid "Complete Support"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:176
+msgid "Posts, Pages, Categories, Tags + Breadcrumb Navigation"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:180
+msgid "Customer Support"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:182
+msgid "Limited Support"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:185
+msgid "Priority Support"
+msgstr ""
+
+# Translators: 1 - The abbreviated plugin name ("AIOSEO").
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:71
+msgid "%1$s Lite vs. Pro"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:73
+msgid ""
+"Get the most out of %1$s by upgrading to Pro and unlocking all of the "
+"powerful features."
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:76
+msgid "Features:"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:79
+msgid "Upgrade to Pro to Unlock Powerful SEO Features"
+msgstr ""
+
+# Translators: 1 - Plugin name ("All in One SEO"), 2 - Plugin short name ("AIOSEO").
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:81
+msgid ""
+"%1$s is the best WordPress SEO plugin. Join over 2,000,000+ Professionals "
+"who are already using %2$s to improve their website search rankings."
+msgstr ""
+
+# Translators: 1 - "Pro".
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:83
+msgid "Upgrade to %1$s Today"
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:86
+msgid ""
+"%1$sBonus:%2$s You can upgrade to the %3$s plan today and %4$ssave %5$s "
+"off%6$s (discount auto-applied)."
+msgstr ""
+
+#: src/vue/pages/about/views/lite/LiteVsPro.vue:98
+msgid "Search Engine Optimization (SEO)"
+msgstr ""
+
+# Translators: 1 - "Pro".
+#: src/vue/components/common/Cta.vue:236
+msgid "Upgrade to %1$s"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/components/common/Cta.vue:238
+msgid "This feature is only available for licensed %1$s %2$s users."
+msgstr ""
+
+# Translators: 1 - Plugin short name ("AIOSEO"), 2 "Pro".
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:182
+msgid ""
+"%1$s %2$s comes with many additional features to help take your site's SEO "
+"to the next level!"
+msgstr ""
+
+#: src/vue/components/common/Cta.vue:240
+msgid "Learn more about all features"
+msgstr ""
+
+#: src/vue/components/common/Cta.vue:241
+msgid "See all features"
+msgstr ""
+
+#: src/vue/components/common/wizard/CloseAndExit.vue:14
+msgid "Close and Exit Wizard Without Saving"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:135
+#: src/vue/pages/dashboard/views/Main.vue:201
+msgid "Smart Schema"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/Main.vue:21
+msgid "Local SEO"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:137
+#: src/vue/pages/dashboard/views/Main.vue:203
+msgid "Advanced support for e-commerce"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:141
+#: src/vue/pages/dashboard/views/Main.vue:204
+msgid "Advanced Google Analytics tracking"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:138
+#: src/vue/pages/dashboard/views/Main.vue:205
+msgid "Video SEO Module"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:142
+#: src/vue/pages/dashboard/views/Main.vue:206
+msgid "Greater control over display settings"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:145
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:208
+msgid "Social meta for Categories, Tags and Custom Taxonomies"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:143
+#: src/vue/pages/dashboard/views/Main.vue:209
+msgid "Ad free (no banner adverts)"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:211
+msgid "There are no new notifications at this moment."
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:212
+msgid "See all dismissed notifications."
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:213
+msgid "SEO Site Score"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:214
+msgid "Support"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/pages/dashboard/views/Main.vue:216
+msgid "Read the %1$s user guide"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:217
+msgid "Access our Premium Support"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:218
+msgid "View the Changelog"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:219
+msgid "Watch video tutorials"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:220
+msgid "Getting started? Read the Beginners Guide"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:221
+msgid "Quicklinks"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:222
+msgid ""
+"You can use these quicklinks to quickly access our settings pages to adjust "
+"your site's SEO settings."
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:224
+msgid ""
+"Configure how your website content will look in Google, Bing and other "
+"search engines."
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:225
+msgid "SEO Analysis"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:226
+msgid ""
+"Check how your site scores with our SEO analyzer and compare against your "
+"competitor's site."
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:227
+msgid ""
+"Improve local SEO rankings with schema for business address, open hours, "
+"contact, and more."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:122
+msgid "Social Networks"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:229
+msgid ""
+"Setup Open Graph for Facebook, Twitter, etc. to show the right content / "
+"thumbnail preview."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:124
+msgid "Tools"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:231
+msgid ""
+"Fine-tune your site with our powerful tools including Robots.txt editor, "
+"import/export and more."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:123
+msgid "Sitemaps"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:233
+msgid "Manage all of your sitemap settings, including XML, Video, News and more."
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO"), 2 - "Pro".
+#: src/vue/pages/dashboard/views/Main.vue:235
+msgid "Get more features in %1$s %2$s:"
+msgstr ""
+
+# Translators: 1 - "Pro", 2 - A percentage ("50%").
+#: src/vue/pages/dashboard/views/Main.vue:237
+msgid "Upgrade to %1$s and Save %2$s"
+msgstr ""
+
+#: src/vue/components/common/core/Notifications.vue:95
+#: src/vue/pages/dashboard/views/Main.vue:238
+msgid "Dismiss All"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:239
+msgid "Relaunch Setup Wizard"
+msgstr ""
+
+#: src/vue/pages/dashboard/views/Main.vue:247
+msgid "You have %1$s more notifications"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:141
+msgid "Video and News Sitemaps"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:142
+msgid "Image SEO Optimization"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:143
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:136
+msgid "Local Business SEO"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:144
+msgid "Advanced WooCommerce"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:146
+msgid "And many more..."
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:147
+msgid "Activate All Features"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:148
+msgid "Deactivate All Features"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:149
+msgid "Search for Features..."
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:151
+msgid "Upgrade %1$s to Pro and Unlock all Features!"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:152
+msgid "Upgrade to Pro and Unlock All Features"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:153
+msgid "A valid license key is required in order to use our addons."
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:154
+msgid "Enter License Key"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:155
+msgid "Purchase License"
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:159
+msgid ""
+"Globally control the Title attribute and Alt text for images in your "
+"content. These attributes are essential for both accessibility and SEO."
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:163
+msgid ""
+"The Video Sitemap works in much the same way as the XML Sitemap module, it "
+"generates an XML Sitemap specifically for video content on your site. "
+"Search engines use this information to display rich snippet information in "
+"search results."
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:167
+msgid ""
+"Our Google News Sitemap lets you control which content you submit to Google "
+"News and only contains articles that were published in the last 48 hours. "
+"In order to submit a News Sitemap to Google, you must have added your site "
+"to Google’s Publisher Center and had it approved."
+msgstr ""
+
+#: src/vue/pages/feature-manager/views/FeatureManager.vue:171
+msgid ""
+"Local Business schema markup enables you to tell Google about your "
+"business, including your business name, address and phone number, opening "
+"hours and price range. This information may be displayed as a Knowledge "
+"Graph card or business carousel."
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocalSeoCta.vue:56
+msgid ""
+"An error occurred while activating the addon. Please upload it manually or "
+"contact support for more information."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/HtmlSitemap.vue:16
+msgid "HTML Sitemap"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:119
+msgid "Business Info"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:120
+msgid "name"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:121
+msgid "Your name or company name."
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:122
+msgid "Business Type"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:123
+msgid "URLs"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:124
+msgid "Business Image"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:125
+msgid "Upload or Select Image"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:126
+msgid "Paste your image URL or select a new image"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:127
+msgid ""
+"Minimum size: 112px x 112px, The image must be in JPG, PNG, GIF, SVG, or "
+"WEBP format."
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:128
+msgid "Remove"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:129
+msgid "Website URL:"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:130
+msgid "About Page URL:"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:131
+msgid "Contact Page URL:"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:134
+msgid "default"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsActivate.vue:135
+msgid "Animal Shelter"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/OpeningHours.vue:31
+msgid "Opening Hours Settings"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocalSeoCta.vue:50
+msgid "Show Opening Hours"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:282
+msgid "Display Opening Hours"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:283
+msgid "Labels"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:284
+msgid "Closed label"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:285
+msgid "Text to display when 'Closed' setting is checked"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:286
+msgid "Open 24h label"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:287
+msgid "Text to display when 'Open 24h' setting is checked"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:288
+msgid "Open 24/7"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:289
+msgid "Use 24h format"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:290
+msgid "Timezone"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:291
+msgid "Select your timezone:"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:293
+msgid "Monday"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:294
+msgid "Tuesday"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:295
+msgid "Wednesday"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:296
+msgid "Thursday"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:297
+msgid "Friday"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:298
+msgid "Saturday"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:299
+msgid "Sunday"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:300
+msgid "Open 24h"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:301
+msgid "Closed"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:302
+msgid "Upgrade to Pro and Unlock Local SEO"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/lite/OpeningHours.vue:303
+msgid "Local SEO is only available for licensed %1$s %2$s users."
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocalSeoCta.vue:51
+msgid "Select your timezone"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/Locations.vue:31
+msgid "Locations Settings"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:197
+msgid ""
+"Local business information may be displayed when users search for "
+"businesses on Google search or Google Maps. Google decides on a per search "
+"basis whether to display this information or not and it’s completely "
+"automated."
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:198
+msgid "Multiple Locations"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:199
+msgid "Display Location Info"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:201
+msgid "Business Name"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:204
+msgid "Business Address"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocalSeoCta.vue:53
+msgid "Business Contact Info"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:206
+msgid "Business IDs"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocalSeoCta.vue:54
+msgid "Payment Info"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:208
+msgid "Area Served"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:218
+msgid "Archive Organization"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:219
+msgid "Automotive Business"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:220
+msgid "Childcare"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:221
+msgid "Dentist"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:222
+msgid "Dry Cleaning/Laundry"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:223
+msgid "Emergency Service"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:224
+msgid "Employment Agency"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:225
+msgid "Entertainment Business"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:226
+msgid "Financial Service"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:227
+msgid "Food Establishment"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:228
+msgid "Government Office"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:229
+msgid "Health & Beauty Business"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:230
+msgid "Home & Construction Business"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:231
+msgid "Internet Cafe"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:232
+msgid "Legal Service"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:233
+msgid "Library"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:234
+msgid "Lodging Business"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:235
+msgid "Medical Business"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:236
+msgid "Radio Station"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:237
+msgid "Real Estate Agent"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:238
+msgid "Recycling Center"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:239
+msgid "Self Storage"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:240
+msgid "Shopping Center"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:241
+msgid "Sports Activity Location"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:242
+msgid "Store"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:243
+msgid "Television Station"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:244
+msgid "Tourist Information Center"
+msgstr ""
+
+#: src/vue/pages/local-seo/views/pro/LocationsPro.vue:245
+msgid "Travel Agency"
+msgstr ""
+
+#: src/vue/mixins/Wizard.js:6
+msgid "Skip this Step"
+msgstr ""
+
+#: src/vue/mixins/Wizard.js:7
+msgid "Go Back"
+msgstr ""
+
+#: src/vue/mixins/Wizard.js:8
+msgid "Save and Continue"
+msgstr ""
+
+#: src/vue/mixins/Image.js:119
+msgid "Choose Image"
+msgstr ""
+
+#: src/vue/mixins/Image.js:55
+msgid "Default Image (Set Below)"
+msgstr ""
+
+#: src/vue/mixins/Image.js:56
+msgid "Featured Image"
+msgstr ""
+
+#: src/vue/mixins/Image.js:57
+msgid "Attached Image"
+msgstr ""
+
+#: src/vue/mixins/Image.js:58
+msgid "First Image in Content"
+msgstr ""
+
+#: src/vue/mixins/Image.js:59
+msgid "Image from Custom Field"
+msgstr ""
+
+#: src/vue/mixins/Image.js:60
+msgid "Post Author Image"
+msgstr ""
+
+#: src/vue/mixins/Image.js:61
+msgid "First Available Image"
+msgstr ""
+
+#: src/vue/mixins/Image.js:68
+msgid "Default Image Source (Set in Social Networks)"
+msgstr ""
+
+#: src/vue/mixins/Image.js:71
+msgid "Custom Image"
+msgstr ""
+
+#: src/vue/mixins/SeoSiteScore.js:10
+msgid "to analyze a competitor site."
+msgstr ""
+
+#: src/vue/mixins/SeoSiteScore.js:11
+msgid "A valid license key is required"
+msgstr ""
+
+#: src/vue/mixins/TruSeoScore.js:8
+msgid "We've got some<br>work to do!"
+msgstr ""
+
+#: src/vue/mixins/TruSeoScore.js:9
+msgid "Needs<br>Improvement!"
+msgstr ""
+
+#: src/vue/mixins/TruSeoScore.js:10
+msgid "Very Good!"
+msgstr ""
+
+#: src/vue/mixins/TruSeoScore.js:11
+msgid "Excellent!"
+msgstr ""
+
+#: src/vue/mixins/SeoSiteScore.js:9
+msgid "to see your Site Score."
+msgstr ""
+
+#: src/vue/mixins/License.js:11
+msgid "Your license has been disabled."
+msgstr ""
+
+#: src/vue/mixins/License.js:15
+msgid "Your license key is invalid."
+msgstr ""
+
+#: src/vue/mixins/License.js:4
+msgid "You have not yet added a license key."
+msgstr ""
+
+#: src/vue/mixins/License.js:7
+msgid "Your license has expired."
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreDashboard.vue:65
+msgid "Critical Issues"
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreDashboard.vue:67
+msgid "Recommended Improvements"
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreDashboard.vue:68
+msgid "Good Results"
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreDashboard.vue:69
+msgid "Complete Site Audit Checklist"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/partialsGeneral/pageAnalysis.vue:30
+msgid "All Good!"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/partialsGeneral/pageAnalysis.vue:29
+msgid "Errors"
+msgstr ""
+
+# Translators: 1 - A number, 2 - A number.
+#: src/vue/mixins/MaxCounts.js:6
+msgid "%1$s out of %2$s max recommended characters."
+msgstr ""
+
+#: src/vue/mixins/Notifications.js:6
+msgid "Notifications"
+msgstr ""
+
+#: src/vue/mixins/Notifications.js:7
+msgid "New Notifications"
+msgstr ""
+
+#: src/vue/mixins/Notifications.js:8
+msgid "Active Notifications"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:126
+msgid "Enable Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/VideoSitemap.js:12
+msgid "Open Video Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:131
+msgid "Noindexed content will not be displayed in your sitemap."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:132
+msgid "Do you get a blank sitemap or 404 error?"
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/VideoSitemap.js:15
+msgid "Upgrade to Pro and Unlock Video Sitemaps"
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/VideoSitemap.js:16
+msgid "Video Sitemaps are only available for licensed %1$s %2$s users."
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/VideoSitemap.js:17
+msgid "This feature requires one of the following plans:"
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/VideoSitemap.js:7
+msgid "Custom Field Support"
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/VideoSitemap.js:8
+msgid "Exclude Pages/Posts"
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/NewsSitemap.js:12
+msgid "Open News Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/NewsSitemap.js:15
+msgid "Upgrade to Pro and Unlock News Sitemaps"
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/NewsSitemap.js:16
+msgid "News Sitemaps are only available for licensed %1$s %2$s users."
+msgstr ""
+
+#: src/vue/pages/sitemaps/mixins/NewsSitemap.js:8
+msgid "Set Publication Name"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Main.vue:55
+msgid "Preview Snippet Editor"
+msgstr ""
+
+#: src/vue/pages/settings/views/lite/AccessControl.vue:68
+msgid "WP Roles (Editor, Author)"
+msgstr ""
+
+#: src/vue/pages/settings/views/lite/AccessControl.vue:69
+msgid "SEO Manager Role"
+msgstr ""
+
+#: src/vue/pages/settings/views/lite/AccessControl.vue:70
+msgid "SEO Editor Role"
+msgstr ""
+
+#: src/vue/pages/settings/views/lite/AccessControl.vue:71
+msgid "Default settings that just work"
+msgstr ""
+
+#: src/vue/pages/settings/views/lite/AccessControl.vue:72
+msgid "Granular controls per role"
+msgstr ""
+
+#: src/vue/pages/settings/views/lite/AccessControl.vue:73
+msgid "Upgrade to Pro and Unlock Access Control"
+msgstr ""
+
+#: src/vue/pages/settings/views/lite/AccessControl.vue:74
+msgid "Access Control is only available for licensed %1$s %2$s users."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportAioseo.vue:81
+msgid "Import / Restore %1$s Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportAioseo.vue:82
+msgid "Import from a JSON or INI file..."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportAioseo.vue:83
+msgid "Choose a File"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportAioseo.vue:84
+msgid "Imported settings will overwrite existing settings and will not be merged."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportAioseo.vue:86
+msgid "A JSON or INI file is required to import settings."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportAioseo.vue:87
+msgid "Success! Your settings have been imported."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportAioseo.vue:88
+msgid ""
+"There was an error importing your settings. Please make sure you are "
+"uploading the correct file or it is in the proper format."
+msgstr ""
+
+#: src/vue/components/common/core/Keyphrase.vue:44
+msgid "Delete"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/BackupSettings.vue:101
+msgid "Success! The backup was deleted."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/BackupSettings.vue:102
+msgid "Success! The backup was restored."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/BackupSettings.vue:146
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/BackupSettings.vue:96
+msgid "Backup Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/BackupSettings.vue:97
+msgid "You have no saved backups."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/BackupSettings.vue:98
+msgid "Create Backup"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/BackupSettings.vue:99
+msgid "Restore"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:124
+msgid "Import Settings From Other Plugins"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:125
+msgid "Choose a plugin to import SEO data directly into %1$s."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:126
+msgid "Select a plugin..."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:128
+msgid "All Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:129
+msgid "not installed"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:143
+msgid "SEO Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:144
+msgid "Post Meta"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:148
+msgid "Term Meta"
+msgstr ""
+
+# Translators: 1 - The name of the plugin being imported (e.g "Yoast SEO").
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:176
+msgid "%1$s was successfully imported!"
+msgstr ""
+
+# Translators: 1 - The name of the plugin being imported (e.g "Yoast SEO").
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:180
+msgid "An error occurred while importing %1$s. Please try again."
+msgstr ""
+
+# Translators: 1 - The name of the plugin (e.g. "Yoast SEO"), 2 - The version of the plugin (e.g. "10.2.3").
+#: src/vue/pages/tools/views/partials/ImportOthers.vue:223
+msgid ""
+"We do not support importing from the currently installed version of %1$s "
+"(%2$s). Please upgrade to the latest version and try again."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:125
+msgid ""
+"This option will generate a separate RSS Sitemap which can be submitted to "
+"Google, Bing and any other search engines that support this type of "
+"sitemap. The RSS Sitemap contains an RSS feed of the latest updates to your "
+"site content.  It is not a full sitemap of all your content."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:127
+msgid "Sitemap Settings"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:128
+msgid "Enable Sitemap Indexes"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:129
+msgid ""
+"Organize sitemap entries into distinct files in your sitemap. We recommend "
+"you enable this setting if your sitemap contains more than 1,000 URLs."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:130
+msgid "Number of Posts"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:133
+msgid "Open RSS Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:134
+msgid ""
+"Allows you to specify the maximum number of posts for the RSS Sitemap. We "
+"recommend an amount of 50 posts."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:135
+msgid "Automatically Ping Search Engines"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:136
+msgid "Post Types"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:138
+msgid "Date Archive Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:139
+msgid "Include Date Archives in your sitemap."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:140
+msgid "Author Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:141
+msgid "Include Author Archives in your sitemap."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:142
+msgid "Include All Post Types"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:143
+msgid "Select which Post Types appear in your sitemap."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:144
+msgid "Include All Taxonomies"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/RssSitemap.vue:145
+msgid "Select which Taxonomies appear in your sitemap."
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:109
+msgid "Export Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:110
+msgid "Export All Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/partials/ExportSettings.vue:111
+msgid "Export All Post Types"
+msgstr ""
+
+#: src/vue/pages/settings/views/GeneralSettings.vue:49
+msgid "License"
+msgstr ""
+
+#: src/vue/components/lite/core/UpgradeBar.vue:25
+msgid "Free"
+msgstr ""
+
+# Translators: 1 - Plugin short name ("AIOSEO"), 2 - "Pro", 3 - "Learn more link"..
+#: src/vue/pages/post-settings/views/lite/Schema.vue:61
+msgid "Pro"
+msgstr ""
+
+# Translators: 1 - "Pro".
+#: src/vue/components/lite/settings/LicenseKey.vue:52
+msgid "upgrading to %1$s"
+msgstr ""
+
+# Translators: This refers to a discount ("As a valued user you receive 50%, automatically applied at checkout!").
+#: src/vue/components/lite/settings/LicenseKey.vue:56
+msgid "off"
+msgstr ""
+
+#: src/vue/pages/settings/views/GeneralSettings.vue:59
+msgid "Setup Wizard"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO")
+#: src/vue/pages/settings/views/GeneralSettings.vue:62
+msgid ""
+"Use our configuration wizard to properly set up %1$s with your WordPress "
+"website."
+msgstr ""
+
+# Translators: 1 - "upgrading to Pro".
+#: src/vue/components/lite/settings/LicenseKey.vue:72
+msgid "To unlock more features, consider %1$s."
+msgstr ""
+
+# Translators: 1 - "50% off".
+#: src/vue/components/lite/settings/LicenseKey.vue:76
+msgid "As a valued user you receive %1$s, automatically applied at checkout!"
+msgstr ""
+
+#: src/vue/pages/settings/views/RssContent.vue:121
+msgid "Automatically add content to your site's RSS feed."
+msgstr ""
+
+#: src/vue/pages/settings/views/RssContent.vue:122
+msgid ""
+"This feature is used to automatically add content to your site's RSS feed. "
+"More specifically, it allows you to add links back to your blog and your "
+"blog posts so scrapers will automatically add these links too. This helps "
+"search engines identify you as the original source of the content."
+msgstr ""
+
+#: src/vue/pages/settings/views/RssContent.vue:123
+msgid "Learn more"
+msgstr ""
+
+#: src/vue/pages/settings/views/RssContent.vue:124
+msgid "RSS Content Settings"
+msgstr ""
+
+#: src/vue/pages/settings/views/RssContent.vue:125
+msgid "Open Your RSS Feed"
+msgstr ""
+
+#: src/vue/pages/settings/views/RssContent.vue:126
+msgid "RSS Before Content"
+msgstr ""
+
+#: src/vue/pages/settings/views/RssContent.vue:127
+msgid "RSS After Content"
+msgstr ""
+
+#: src/vue/pages/settings/views/RssContent.vue:128
+msgid "Add content before each post in your site feed."
+msgstr ""
+
+#: src/vue/pages/settings/views/RssContent.vue:129
+msgid "Add content after each post in your site feed."
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:267
+msgid "Your user account role does not have access to edit this field. %2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:357
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:358
+msgid "Show Breadcrumbs on your Website"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:359
+msgid "Shortcode"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:360
+msgid "Gutenberg Block"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:361
+msgid "PHP Code"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:362
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:363
+msgid "Separator"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:364
+msgid "Homepage Link"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:365
+msgid "Breadcrumb Prefix"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:366
+msgid "Archive Format"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:367
+msgid "Search Result Format"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:368
+msgid "404 Error Format"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:369
+msgid "Current Item"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:370
+msgid "Home"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:372
+msgid "Subcategory"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:373
+msgid "Article Title"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:374
+msgid "Archives of"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:375
+msgid "Search for"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:376
+msgid "404 Error: page not found"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:377
+msgid "search key word goes here"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:378
+msgid "Category Name"
+msgstr ""
+
+#: src/vue/pages/settings/views/Breadcrumbs.vue:379
+msgid "Breadcrumb Templates"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:376
+#: src/vue/pages/social-networks/views/Facebook.vue:706
+msgid "Advanced Settings"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:270
+msgid "TruSEO Score & Content"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:271
+msgid ""
+"Enable our TruSEO score to help you optimize your content for maximum "
+"traffic."
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:273
+msgid "Post Type Columns"
+msgstr ""
+
+# Translators: 1 - Plugin Short Name ("AIOSEO").
+#: src/vue/pages/settings/views/Advanced.vue:276
+msgid "Select which Post Types you want to use the %1$s columns with."
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:277
+msgid "Usage Tracking"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:278
+msgid "Admin Bar Menu"
+msgstr ""
+
+# Translators: 1 - Plugin Short Name ("AIOSEO").
+#: src/vue/pages/settings/views/Advanced.vue:280
+msgid "This adds %1$s to the admin toolbar for easy access to your SEO settings."
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:281
+msgid "Dashboard Widget"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:282
+msgid "This displays an SEO News widget on the dashboard."
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:283
+msgid "Announcements"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:284
+msgid "This allows you to hide plugin announcements and update details."
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:285
+msgid "Automatic Updates"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:286
+msgid "All (recommended)"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:287
+msgid ""
+"You are getting the latest features, bugfixes, and security updates as they "
+"are released."
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:288
+msgid "Minor Only"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:289
+msgid "You are getting bugfixes and security updates, but not major features."
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:168
+msgid "None"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:291
+msgid "You will need to manually update everything."
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:292
+msgid ""
+"By allowing us to track usage data we can better help you because we know "
+"with which WordPress configurations, themes and plugins we should test."
+msgstr ""
+
+# Translators: 1 - Opening HTML link and bold tag, 2 - Closing HTML link and bold tag.
+#: src/vue/pages/settings/views/Advanced.vue:294
+msgid "Complete documentation on usage tracking is available %1$shere%2$s."
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO"), 2 - "Learn more".
+#: src/vue/pages/settings/views/Advanced.vue:296
+msgid "This Admin Bar feature is only available for licensed %1$s users. %2$s"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO"), 2 - "Learn more".
+#: src/vue/pages/settings/views/Advanced.vue:298
+msgid "The Dashboard Widget feature is only available for licensed %1$s users. %2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/Advanced.vue:299
+msgid "Taxonomy Columns"
+msgstr ""
+
+# Translators: 1 - Plugin Short Name ("AIOSEO").
+#: src/vue/pages/settings/views/Advanced.vue:302
+msgid "Select which Taxonomies you want to use the %1$s columns with."
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO"), 2 - "Learn more".
+#: src/vue/pages/search-appearance/views/Advanced.vue:385
+msgid "This feature is only for licensed %1$s users. %2$s"
+msgstr ""
+
+# Translators: 1 - Plugin Short Name ("AIOSEO").
+#: src/vue/pages/settings/views/Advanced.vue:305
+msgid "Uninstall %1$s"
+msgstr ""
+
+# Translators: 1 - Plugin Short Name ("AIOSEO").
+#: src/vue/pages/settings/views/Advanced.vue:307
+msgid ""
+"Check this if you would like to remove ALL %1$s data upon plugin deletion. "
+"All settings and SEO data will be unrecoverable."
+msgstr ""
+
+#: src/vue/pages/post-settings/views/ModalContent.vue:41
+msgid "Modal Content"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Advanced.vue:114
+msgid "Robots Setting"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Advanced.vue:115
+msgid "Use default settings"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Advanced.vue:116
+msgid "Canonical URL"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Advanced.vue:117
+msgid "Enter a URL to change the default Canonical URL"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Advanced.vue:118
+msgid "Priority Score"
+msgstr ""
+
+#: src/vue/components/common/core/PriorityScore.vue:64
+#: src/vue/pages/post-settings/views/Advanced.vue:119
+msgid "Priority"
+msgstr ""
+
+#: src/vue/components/common/core/PriorityScore.vue:65
+#: src/vue/pages/post-settings/views/Advanced.vue:120
+msgid "Frequency"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/Advanced.vue:112
+msgid "Keywords"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:443
+msgid "Press enter to create a keyword"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:260
+msgid "General"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:261
+msgid "Snippet Preview"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:262
+msgid "Snippet Preview content here."
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:263
+msgid "Edit Snippet"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:264
+msgid "Click on tags below to insert variables into your title."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/TitleDescription.vue:146
+msgid "Meta Description"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:266
+msgid "Click on tags below to insert variables into your meta description."
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:267
+msgid "Pillar Content"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:268
+msgid ""
+"Cornerstone content should be the most important and extensive articles on "
+"your site."
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:269
+msgid "Focus Keyphrase"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/partialsGeneral/additionalKeyphrases.vue:68
+msgid "Additional Keyphrases"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:271
+msgid "Page Analysis"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/partialsGeneral/pageAnalysis.vue:36
+msgid "Basic SEO"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/partialsGeneral/pageAnalysis.vue:40
+msgid "Title"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/partialsGeneral/pageAnalysis.vue:44
+msgid "Readability"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/General.vue:275
+msgid ""
+"Looking for meta keywords? Click on the advanced tab above to add/edit meta "
+"keywords."
+msgstr ""
+
+# Translators: %s: The type of page (Post, Page, Category, Tag, etc.).
+#: src/vue/pages/post-settings/views/General.vue:284
+msgid "%s Title"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Social.vue:60
+msgid "Social"
+msgstr ""
+
+#: src/vue/pages/tools/views/ImportExport.vue:36
+msgid "Export / Backup Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/HtaccessEditor.vue:41
+msgid "Edit .htaccess"
+msgstr ""
+
+#: src/vue/pages/tools/views/HtaccessEditor.vue:43
+msgid ""
+"This allows you to edit the .htaccess file for your site.  All WordPress "
+"sites on an Apache server have a .htaccess file and we have provided you "
+"with a convenient way of editing it. Care should always be taken when "
+"editing important files from within WordPress as an incorrect change could "
+"cause WordPress to become inaccessible. %1$sBe sure to make a backup before "
+"making changes and ensure that you have FTP access to your web server and "
+"know how to access and edit files via FTP.%2$s"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:168
+msgid "Reset / Restore Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:169
+msgid "Select Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:170
+msgid "Select settings that you would like to reset:"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:171
+msgid "Reset Selected Settings to Default"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:172
+msgid "Your settings have been reset successfully!"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:173
+msgid "Are you sure you want to reset the selected settings to default?"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:175
+msgid ""
+"This action cannot be undone. Before taking this action, we recommend that "
+"you make a %1$sfull website backup first%2$s."
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:176
+msgid "Yes, I have a backup and want to reset the settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:177
+msgid "No, I need to make a backup"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:178
+msgid "Logs"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:179
+msgid "Bad Bot Blocker Logs"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:180
+msgid "Cleared"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:181
+msgid "Clear Bad Bot Blocker Logs"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO").
+#: src/vue/pages/tools/views/DatabaseTools.vue:183
+msgid "All %1$s Settings"
+msgstr ""
+
+#: src/vue/pages/tools/views/DatabaseTools.vue:198
+msgid "Robots.txt"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:256
+msgid "Miscellaneous Verification"
+msgstr ""
+
+# Translators: 1 - "<head></head>".
+#: src/vue/pages/settings/views/WebmasterTools.vue:258
+msgid ""
+"The code above will be added between the %1$s tags on every page on your "
+"website."
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:259
+msgid "Webmaster Tools Verification"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:260
+msgid "Click here"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:261
+msgid "Install Monsterinsights"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:262
+msgid "Success!"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:263
+msgid "Google Analytics is now handled by MonsterInsights."
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:264
+msgid "Google Analytics is now handled by ExactMetrics."
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:265
+msgid "Manage Google Analytics"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:266
+msgid "Get Started"
+msgstr ""
+
+# Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:276
+msgid ""
+"We recommend using the %1$sFree MonsterInsights%2$s plugin to get the most "
+"out of Google Analytics."
+msgstr ""
+
+# Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:280
+msgid ""
+"We recommend using the %1$sFree ExactMetrics%2$s plugin to get the most out "
+"of Google Analytics."
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:314
+msgid "Google Verification Code"
+msgstr ""
+
+# Translators: 1 - "Google Search Console".
+#: src/vue/pages/settings/views/WebmasterTools.vue:316
+msgid "Google Search Console"
+msgstr ""
+
+# Translators: 1 - "Google Search Console".
+#: src/vue/pages/settings/views/WebmasterTools.vue:316
+msgid "Get your Google verification code in %1$s."
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:327
+msgid "Bing Verification Code"
+msgstr ""
+
+# Translators: 1 - "Bing Webmaster Tools".
+#: src/vue/pages/settings/views/WebmasterTools.vue:329
+msgid "Bing Webmaster Tools"
+msgstr ""
+
+# Translators: 1 - "Bing Webmaster Tools".
+#: src/vue/pages/settings/views/WebmasterTools.vue:329
+msgid "Get your Bing verification code in %1$s."
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:340
+msgid "Yandex Verification Code"
+msgstr ""
+
+# Translators: 1 - "Yandex Webmaster Tools".
+#: src/vue/pages/settings/views/WebmasterTools.vue:342
+msgid "Yandex Webmaster Tools"
+msgstr ""
+
+# Translators: 1 - "Yandex Webmaster Tools".
+#: src/vue/pages/settings/views/WebmasterTools.vue:342
+msgid "Get your Yandex verification code in %1$s."
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:353
+msgid "Baidu Verification Code"
+msgstr ""
+
+# Translators: 1 - "Baidu Webmaster Tools".
+#: src/vue/pages/settings/views/WebmasterTools.vue:355
+msgid "Baidu Webmaster Tools"
+msgstr ""
+
+# Translators: 1 - "Baidu Webmaster Tools".
+#: src/vue/pages/settings/views/WebmasterTools.vue:355
+msgid "Get your Baidu verification code in %1$s."
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:361
+msgid "Pinterest Site Verification"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:366
+msgid "Pinterest Verification Code"
+msgstr ""
+
+# Translators: 1 - "Pinterest account".
+#: src/vue/pages/settings/views/WebmasterTools.vue:368
+msgid "Get your Pinterest verification code in your %1$s."
+msgstr ""
+
+# Translators: 1 - "Pinterest account".
+#: src/vue/pages/settings/views/WebmasterTools.vue:368
+msgid "Pinterest account"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:399
+msgid "Google Analytics"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:406
+msgid "Google Analytics ID"
+msgstr ""
+
+# Translators: 1 - "Google Analytics account".
+#: src/vue/pages/settings/views/WebmasterTools.vue:408
+msgid "Get your Google Analytics ID in your %1$s."
+msgstr ""
+
+# Translators: 1 - "Google Analytics account".
+#: src/vue/pages/settings/views/WebmasterTools.vue:408
+msgid "Google Analytics account"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:414
+msgid "Enable Advanced Analytics Options"
+msgstr ""
+
+# Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:418
+msgid "This enables Advanced Google Analytics options.%1$s%2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:423
+msgid "Tracking Domain"
+msgstr ""
+
+# Translators: 1 - "http://", 2 - A link to our documentation, 3 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:426
+msgid "Enter your domain name without the %1$s to set your cookie domain.%2$s%3$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:431
+msgid "Track Multiple Domains"
+msgstr ""
+
+# Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:439
+msgid ""
+"Use this option to enable tracking of multiple or additional "
+"domains.%1$s%2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:444
+msgid "Additional Domains"
+msgstr ""
+
+# Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:448
+msgid ""
+"Add a list of additional domains to track here. Enter one domain name per "
+"line without the http://.%1$s%2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:453
+msgid "Anonymize IP Addresses"
+msgstr ""
+
+# Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:461
+msgid "This enables support for IP Anonymization in Google Analytics.%1$s%2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:466
+msgid "Display Advertiser Tracking"
+msgstr ""
+
+# Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:474
+msgid ""
+"This enables support for the Display Advertiser Features in Google "
+"Analytics.%1$s%2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:479
+msgid "Exclude Users from Tracking"
+msgstr ""
+
+# Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:490
+msgid "Exclude logged-in users from Google Analytics tracking by role.%1$s%2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:495
+msgid "Enhanced Link Attribution"
+msgstr ""
+
+# Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:503
+msgid ""
+"This enables support for the Enhanced Link Attribution in Google "
+"Analytics.%1$s%2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:508
+msgid "Track Outbound Links"
+msgstr ""
+
+# Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:516
+msgid "This enables tracking outbound links with Google Analytics.%1$s%2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:521
+msgid "Enhanced Ecommerce"
+msgstr ""
+
+# Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: src/vue/pages/settings/views/WebmasterTools.vue:529
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics.%1$s%2$s"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:534
+msgid "Track Outbound Forms"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:548
+msgid "Track Events"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:562
+msgid "Track URL Changes"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:576
+msgid "Track Page Visibility"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:590
+msgid "Track Media Queries"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:604
+msgid "Track Elements Visibility"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:618
+msgid "Track Page Scrolling"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:632
+msgid "Track Facebook and Twitter"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:646
+msgid "Ensure URL Consistency"
+msgstr ""
+
+#: src/vue/pages/settings/views/WebmasterTools.vue:660
+msgid "Google Tag Manager Container ID"
+msgstr ""
+
+# Translators: 1 - "Google Tag Manager account".
+#: src/vue/pages/settings/views/WebmasterTools.vue:664
+msgid "Get your Google Tag Manager ID in your %1$s."
+msgstr ""
+
+#: src/vue/pages/tools/views/BadBotBlocker.vue:90
+msgid "Block Bad Bots using HTTP"
+msgstr ""
+
+#: src/vue/pages/tools/views/BadBotBlocker.vue:91
+msgid "Block Referral Spam using HTTP"
+msgstr ""
+
+#: src/vue/pages/tools/views/BadBotBlocker.vue:92
+msgid "Track Blocked Bots"
+msgstr ""
+
+#: src/vue/pages/tools/views/BadBotBlocker.vue:93
+msgid "Use Custom Blocklists"
+msgstr ""
+
+#: src/vue/pages/tools/views/BadBotBlocker.vue:94
+msgid "User Agent Blocklist"
+msgstr ""
+
+#: src/vue/pages/tools/views/BadBotBlocker.vue:95
+msgid "Referer Blocklist"
+msgstr ""
+
+#: src/vue/pages/tools/views/BadBotBlocker.vue:96
+msgid "Blocked Bots Log"
+msgstr ""
+
+# Translators: 1 - The location of the log file.
+#: src/vue/pages/tools/views/BadBotBlocker.vue:98
+msgid "The log for the blocked bots is located here: %1$s"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO"), 2 - The plugin short name ("AIOSEO").
+#: src/vue/pages/tools/views/RobotsEditor.vue:238
+msgid ""
+"The robots.txt editor in %1$s allows you to set up a robots.txt file for "
+"your site that will override the default robots.txt file that WordPress "
+"creates. By creating a robots.txt file with %2$s you have greater control "
+"over the instructions you give web crawlers about your site."
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:239
+msgid ""
+"Just like WordPress, %1$s generates a dynamic file so there is no static "
+"file to be found on your server.  The content of the robots.txt file is "
+"stored in your WordPress database."
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:240
+msgid "Enable Custom Robots.txt"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:241
+msgid ""
+"Duplicate or invalid entries have been detected! Please check your rules "
+"and try again."
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:242
+msgid "User Agent"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:243
+msgid "Rule"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:244
+msgid "Directory Path"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:245
+msgid "Allow"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:246
+msgid "Disallow"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:247
+msgid "Add Rule"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:248
+msgid "Delete Rule"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:249
+msgid "Robots.txt Preview:"
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:250
+msgid "Open Robots.txt"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO"), 2 - The plugin short name ("AIOSEO").
+#: src/vue/pages/tools/views/RobotsEditor.vue:252
+msgid ""
+"%1$s has detected a physical robots.txt file in the root folder of your "
+"WordPress installation. We recommend removing this file as it could cause "
+"conflicts with WordPress' dynamically generated one. %2$s can import this "
+"file and delete it, or you can simply delete it."
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:253
+msgid "Import and Delete"
+msgstr ""
+
+# Translators: 1 - The url to the main site.
+#: src/vue/pages/tools/views/RobotsEditor.vue:285
+msgid ""
+"This site is running in a sub-directory of your main site located at %1$s. "
+"Your robots.txt file should only appear in the root directory of that site."
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:288
+msgid ""
+"It looks like you are missing the proper rewrite rules for the robots.txt "
+"file."
+msgstr ""
+
+# Translators: 1 - Opening link tag. 2 - Closing link tag.
+#: src/vue/pages/tools/views/RobotsEditor.vue:292
+msgid ""
+"It appears that your server is running on Apache, so the fix should be as "
+"simple as checking the %1$scorrect .htaccess implementation on "
+"wordpress.org%2$s."
+msgstr ""
+
+#: src/vue/pages/tools/views/RobotsEditor.vue:294
+msgid ""
+"It appears that your server is running on nginx, so the fix will most "
+"likely require adding the correct rewrite rules to our nginx configuration. "
+"%1$sCheck our documentation for more information%2$s."
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:115
+msgid "System Status Info"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:116
+msgid "Download System Info File"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:117
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:118
+msgid "Email Debug Information"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:119
+msgid "Submit"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:120
+msgid "WordPress"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:121
+msgid "Server Info"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:122
+msgid "Active Theme"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:123
+msgid "Must-Use Plugins"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:124
+msgid "Active Plugins"
+msgstr ""
+
+#: src/vue/pages/tools/views/SystemStatus.vue:125
+msgid "Inactive Plugins"
+msgstr ""
+
+#: src/vue/components/common/core/CopyBlock.vue:48
+msgid "Copied!"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/pro/VideoSitemap.vue:402
+msgid "Links Per Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/pro/VideoSitemap.vue:403
+msgid ""
+"Allows you to specify the maximum number of posts in a sitemap (up to "
+"50,000)."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/pro/VideoSitemap.vue:409
+msgid ""
+"Select which Taxonomies appear in your sitemap. Categories and Tags are "
+"excluded by default since these do not support video embedding."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:402
+msgid "Exclude Terms"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/pro/VideoSitemap.vue:415
+msgid ""
+"Any posts that are assigned to these terms will also be excluded from your "
+"sitemap."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/pro/VideoSitemap.vue:436
+msgid ""
+"We recommend setting the amount of URLs per sitemap index to 1,000 or less. "
+"The more links, the longer it will take for the sitemap to load."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/pro/VideoSitemap.vue:437
+msgid ""
+"Your static sitemap is currently being regenerated. This may take some time "
+"based on the size of your site. This may also cause the sitemap content to "
+"look outdated."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:134
+msgid "Congratulations, your site is now SEO ready!"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:135
+msgid "Finish Setup and Go to the Dashboard"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:136
+msgid "Here's what to do next:"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:137
+msgid "Join our Community"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:138
+msgid "Join on Facebook"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:139
+msgid "Follow on Twitter"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:140
+msgid "Read our Step By Step Guide to Improve your SEO Rankings"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:141
+msgid "Watch our Guided Tour of %1$s"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:142
+msgid "See Advanced Settings"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Success.vue:143
+msgid "Setup Webmaster Tools"
+msgstr ""
+
+# Translators: 1 - Opening bold tag. 2 - Closing bold tag. 3 - Opening bold tag. 4 - Percent between 1-100. 5 - Closing bold tag.
+#: src/vue/pages/setup-wizard/views/Success.vue:145
+msgid ""
+"%1$sBonus:%2$s You can upgrade your plan today and %3$ssave %4$s off%5$s "
+"(discount auto-applied)."
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:417
+msgid ""
+"An XML Sitemap is a list of all your content that search engines use when "
+"they crawl your site. This is an essential part of SEO because it contains "
+"some important pieces of information that search engines need when crawling "
+"your site. The XML Sitemap created by %1$s tells search engines where to "
+"find all of the content on your site."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:425
+msgid "Open Sitemap"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:438
+msgid "Additional Pages"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:439
+msgid ""
+"You can use this section to add any URLs to your sitemap which aren’t a "
+"part of your WordPress installation. For example, if you have a contact "
+"form that you would like to be included on your sitemap you can enter the "
+"information manually."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:401
+msgid "Exclude Posts / Pages"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:445
+msgid "Grouped"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:446
+msgid "Post Type Priority Score"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:447
+msgid "Taxonomy Priority Score"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:448
+msgid "Exclude Images"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:449
+msgid "Exclude Images from your sitemap."
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:450
+msgid "Dynamically Generate"
+msgstr ""
+
+#: src/vue/pages/sitemaps/views/GeneralSitemap.vue:451
+msgid "Dynamically creates the XML Sitemap instead of using a static file."
+msgstr ""
+
+#: src/vue/pages/connect-pro/views/Main.vue:45
+msgid "Connecting..."
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/pages/setup-wizard/views/Welcome.vue:42
+msgid "Welcome to the %1$s Setup Wizard!"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Welcome.vue:43
+msgid ""
+"%1$s makes it easy to configure your site's SEO settings without the need "
+"to hire an expert. And it takes less than 10 minutes too!"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Welcome.vue:44
+msgid "Let's Get Started"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Welcome.vue:45
+msgid "Go back to the Dashboard"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:423
+msgid "Person or Organization"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:427
+msgid "Choose a Person"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:424
+msgid "Person"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:425
+msgid "Organization"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:426
+msgid "Choose whether the site represents a person or an organization."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:428
+msgid "Name"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/AdditionalInformation.vue:322
+msgid "Organization Name"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:429
+msgid "Phone Number"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:430
+msgid "Choose a Contact Type"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:431
+msgid "Contact Type"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:432
+msgid "Select which team or department the phone number belongs to."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:433
+msgid "Logo"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/AdditionalInformation.vue:332
+msgid "Default Social Share Image"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/AdditionalInformation.vue:333
+msgid "Your Social Profiles"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:451
+msgid "Manually Enter Person"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:678
+msgid "General Facebook Settings"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:679
+msgid ""
+"Enable this feature if you want Facebook and other social media to display "
+"a preview with images and a text excerpt when a link to your site is shared."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:680
+msgid "Enable Open Graph Markup"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:681
+msgid "Default Post Image Source"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:682
+msgid "Default Term Image Source"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:683
+msgid "Width"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:684
+msgid "Height"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:685
+msgid "Post Custom Field Name"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:686
+msgid "Term Custom Field Name"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:687
+msgid "Default Post Facebook Image"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:688
+msgid "Default Term Facebook Image"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:691
+msgid ""
+"Minimum size: 200px x 200px, ideal ratio 1.91:1, 8MB max. (eg: 1640px x "
+"856px or 3280px x 1712px for retina screens)"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:692
+msgid "Home Page Settings"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:693
+msgid "The Title of the Page or Site you are Sharing"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/pages/social-networks/views/Facebook.vue:695
+msgid ""
+"This is what your page configured with %1$s will look like when shared via "
+"Facebook. The site title and description will be automatically added."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:696
+msgid "Image"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:697
+msgid "Site Name"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:699
+msgid "Use the home page title"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:700
+msgid "Click on the tags below to insert variables into your site name."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:701
+msgid "Click on the tags below to insert variables into your home page title."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:702
+msgid "Description"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:703
+msgid "Use the home page description"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:704
+msgid "Click on the tags below to insert variables into your description."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:707
+msgid "Facebook Admin ID"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:708
+msgid "Facebook App ID"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:709
+msgid "Facebook Author URL"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:710
+msgid ""
+"Enter your Facebook Admin ID here. You can enter multiple Facebook Admin "
+"IDs by separating them with a comma."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:711
+msgid ""
+"The Facebook App ID of the site's app. In order to use Facebook Insights, "
+"you must add the App ID to your page. Insights lets you view analytics for "
+"traffic to your site from Facebook. Find the App ID in your App Dashboard."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:712
+msgid ""
+"Will be overriden if the Facebook author URL is present in the individual "
+"User Profile."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:713
+msgid "How to get your Facebook Admin ID"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:714
+msgid "How to get your Facebook App ID"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:715
+msgid "How to get your Facebook Author URL"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:716
+msgid "Show Facebook Author"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:717
+msgid "Default Post Type Object Types"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:718
+msgid "Default Taxonomy Object Types"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:719
+msgid ""
+"Default Taxonomy Object Types are only available for licensed %1$s users. "
+"%2$s"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:720
+msgid "Default Term Image Source is only available for licensed %1$s users. %2$s"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:721
+msgid "Automatically Generate Article Tags"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:722
+msgid "Use Keywords in Article Tags"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:723
+msgid "Use Categories in Article Tags"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:724
+msgid "Use Post Tags in Article Tags"
+msgstr ""
+
+# Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: src/vue/pages/social-networks/views/Facebook.vue:726
+msgid ""
+"The home page settings below have been disabled because you are using a "
+"static home page. You can %1$sedit your home page settings%2$s directly to "
+"change the title, meta and image."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Facebook.vue:727
+msgid "Object Type"
+msgstr ""
+
+# Translators: 1 - "Pro".
+#: src/vue/pages/setup-wizard/views/LicenseKey.vue:102
+msgid "upgrade to %1$s"
+msgstr ""
+
+#: src/vue/components/lite/settings/LicenseKey.vue:60
+#: src/vue/pages/setup-wizard/views/LicenseKey.vue:103
+msgid "Paste your license key here"
+msgstr ""
+
+#: src/vue/components/lite/settings/LicenseKey.vue:61
+#: src/vue/pages/setup-wizard/views/LicenseKey.vue:104
+msgid "Connect"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/components/lite/settings/LicenseKey.vue:80
+#: src/vue/pages/setup-wizard/views/LicenseKey.vue:121
+msgid "You're using %1$s - no license needed. Enjoy!"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/LicenseKey.vue:128
+msgid "To unlock the selected features, please enter your license key below."
+msgstr ""
+
+# Translators: 1 - "upgrading to Pro".
+#: src/vue/pages/setup-wizard/views/LicenseKey.vue:130
+msgid ""
+"To unlock the selected features, please %1$s and enter your license key "
+"below."
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/components/lite/settings/LicenseKey.vue:84
+#: src/vue/pages/setup-wizard/views/LicenseKey.vue:134
+msgid "Already purchased? Simply enter your license key below to connect with %1$s!"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO").
+#: src/vue/pages/setup-wizard/views/LicenseKey.vue:98
+msgid "Enter your %1$s License Key"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Import.vue:80
+msgid "Import data from your current plugins"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Import.vue:81
+msgid ""
+"We have detected other SEO plugins installed on your website. Select which "
+"plugins you would like to import data to %1$s."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Import.vue:82
+msgid "Import Data and Continue"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:146
+msgid "Which category best describes your website?"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:147
+msgid ""
+"Select a category to help us narrow down the SEO options that work best for "
+"you and your site."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:148
+msgid "Enter your answer"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SearchAppearance.vue:255
+msgid "Home Page Title"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:153
+msgid "Blog"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:154
+msgid "News Channel"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:155
+msgid "Online Store"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:156
+msgid "Small Offline Business"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:157
+msgid "Corporation"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:158
+msgid "Portfolio"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Category.vue:160
+msgid "Other:"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:432
+msgid "Twitter Card Settings"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/pages/social-networks/views/Twitter.vue:434
+msgid ""
+"Enable this feature if you want Twitter to display a preview card with "
+"images and a text excerpt when a link to your site is shared."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:435
+msgid "Enable Twitter Card"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:436
+msgid "Default Card Type"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:235
+msgid "Summary"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:236
+msgid "Summary with Large Image"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:445
+msgid "Default Post Twitter Image"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:446
+msgid "Default Term Twitter Image"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:224
+msgid ""
+"Minimum size: 144px x 144px, ideal ratio 1:1, 5MB max. JPG, PNG, WEBP and "
+"GIF formats only."
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:225
+msgid ""
+"Minimum size: 300px x 157px, ideal ratio 2:1, 5MB max. JPG, PNG, WEBP and "
+"GIF formats only."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:452
+msgid "Home Page Image"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:460
+msgid "Show Twitter Author"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:463
+msgid "Card Type"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:464
+msgid "Additional Data"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Twitter.vue:465
+msgid ""
+"Enable this option to show additional Twitter data on your posts and pages "
+"(i.e., who the post was written by and how long it might take to read the "
+"article)."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Features.vue:126
+msgid "The following plugins will be installed: %2$s"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Features.vue:130
+msgid "The following %1$s addons will be installed: %2$s"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Features.vue:134
+msgid "The following plugins and %1$s addons will be installed: %2$s"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Features.vue:82
+msgid "Which SEO features do you want to enable?"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/Features.vue:86
+msgid ""
+"We have already selected our recommended features based on your site "
+"category, but you can use the following features to fine-tune your site."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/SocialProfiles.vue:26
+msgid ""
+"To let search engines know which profiles are associated with this site, "
+"enter them below:"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Pinterest.vue:46
+msgid ""
+"Pinterest uses Open Graph metadata just like Facebook, so be sure to keep "
+"Open Graph enabled on the Facebook tab checked if you want to optimize your "
+"site for Pinterest."
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Pinterest.vue:47
+msgid "Learn how to get your Pinterest Verification Code"
+msgstr ""
+
+#: src/vue/pages/social-networks/views/Pinterest.vue:48
+msgid ""
+"If you have already confirmed your website with Pinterest, you can skip the "
+"step below."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SearchAppearance.vue:250
+msgid ""
+"The way your site is displayed in search results is very important. Take "
+"some time to look over these settings and tweak as needed."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SearchAppearance.vue:251
+msgid "Google Snippet Preview"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SearchAppearance.vue:252
+msgid "Edit Title and Description"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:418
+msgid "Click on the tags below to insert variables into your site title."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/TitleDescription.vue:147
+msgid "Click on the tags below to insert variables into your meta description."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SearchAppearance.vue:257
+msgid "Is the site under construction or live (ready to be indexed)?"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SearchAppearance.vue:258
+msgid "Under Construction"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SearchAppearance.vue:259
+msgid "Live Site"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SearchAppearance.vue:262
+msgid "Do you have multiple authors?"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SearchAppearance.vue:263
+msgid "Redirect attachment pages?"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/lite/Schema.vue:55
+msgid "Schema Type"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/lite/Schema.vue:56
+msgid "Article Type"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/lite/Schema.vue:57
+msgid "Article"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/lite/Schema.vue:58
+msgid "Blog Post"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/lite/Schema.vue:59
+msgid "News Article"
+msgstr ""
+
+# Translators: 1 - Plugin short name ("AIOSEO"), 2 - "Pro", 3 - "Learn more link"..
+#: src/vue/pages/post-settings/views/lite/Schema.vue:61
+msgid "This feature is only for licensed %1$s %2$s users. %3$s"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:178
+msgid "Activate Monsterinsights"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:180
+msgid "MonsterInsights is Installed & Active"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:181
+msgid "ExactMetrics is Installed & Active"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:182
+msgid "Launch Setup Wizard"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:184
+msgid ""
+"ExactMetrics connects AIOSEO to Google Analytics, providing a powerful "
+"integration. ExactMetrics is a sister company of AIOSEO."
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:188
+msgid "Activate ExactMetrics"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:189
+msgid ""
+"ExactMetrics shows you exactly which content gets the most visits, so you "
+"can analyze and optimize it for higher conversions."
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:190
+msgid "The Best Google Analytics Plugin for WordPress"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:191
+msgid ""
+"MonsterInsights connects AIOSEO to Google Analytics, providing a powerful "
+"integration. MonsterInsights is a sister company of AIOSEO."
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:192
+msgid "Quick & Easy Google Analytics Setup"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:193
+msgid "Google Analytics Dashboard + Real Time Stats"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:194
+msgid "Google Analytics Enhanced Ecommerce Tracking"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:195
+msgid "Universal Tracking for AMP and Instant Articles"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:196
+msgid "Install &"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:197
+msgid "Activate MonsterInsights"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:198
+msgid ""
+"MonsterInsights shows you exactly which content gets the most visits, so "
+"you can analyze and optimize it for higher conversions."
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:199
+msgid "Setup ExactMetrics"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:200
+msgid "Setup MonsterInsights"
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:201
+msgid ""
+"ExactMetrics has an intuitive setup wizard to guide you through the setup "
+"process."
+msgstr ""
+
+#: src/vue/pages/monsterinsights/views/Monsterinsights.vue:202
+msgid ""
+"MonsterInsights has an intuitive setup wizard to guide you through the "
+"setup process."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:165
+msgid "Setup Site Analyzer + Smart Recommendations"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:166
+msgid ""
+"Get helpful suggestions from %1$s on how to optimize your website content, "
+"so you can rank higher in search results."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:167
+msgid "Your Email Address"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:168
+msgid ""
+"Your email is needed so you can receive SEO recommendations. This email "
+"will also be used to connect your site with our SEO API."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:169
+msgid "Help make %1$s better for everyone"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:170
+msgid "Yes, count me in"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:171
+msgid "Would you like to purchase and install the following features now?"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:172
+msgid "An upgrade is required to unlock the following features."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:173
+msgid ""
+"You won't have access to this functionality until the extensions have been "
+"purchased and installed."
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:174
+msgid "I'll do it later"
+msgstr ""
+
+#: src/vue/pages/setup-wizard/views/SmartRecommendations.vue:175
+msgid "Purchase and Install Now"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/partialsGeneral/additionalKeyphrases.vue:69
+msgid "Add Additional Keyphrases"
+msgstr ""
+
+# Translators: 1 - "Pro" string, 2 - "Learn more link".
+#: src/vue/pages/post-settings/views/partialsGeneral/additionalKeyphrases.vue:71
+msgid "Upgrade to %1$s to add related keyphrases. %2$s"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/partialsGeneral/focusKeyphrase.vue:60
+msgid "Add Focus Keyphrase"
+msgstr ""
+
+# Translators: 1 - "Learn more link".
+#: src/vue/pages/post-settings/views/partialsGeneral/focusKeyphrase.vue:62
+msgid ""
+"Not sure what keyphrases are used for? Check out our documentation for more "
+"information. %1$s"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/SocialSideBar.vue:26
+msgid ""
+"Here you can view and edit the thumbnail, title and description that will "
+"be displayed when your site is shared on social media. Click on the button "
+"below to view and edit the preview."
+msgstr ""
+
+#: src/vue/pages/post-settings/views/SocialSideBar.vue:27
+msgid "Preview & Edit"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:213
+msgid "Twitter Preview"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:214
+msgid "Use Data from Facebook Tab"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:215
+msgid "Image Source"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:216
+msgid "Custom Field Name"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:217
+msgid "Twitter Image"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:218
+msgid "Twitter Title"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:219
+msgid "Twitter Description"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:220
+msgid "Twitter Card Type"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Twitter.vue:234
+msgid "Default (Set under Social Networks)"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:238
+msgid "Facebook Preview"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:241
+msgid "Video URL"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:245
+msgid "Facebook Image"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:246
+msgid "Facebook Title"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:247
+msgid "Facebook Description"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:250
+msgid ""
+"Minimum size: 200px x 200px, ideal ratio 1.91:1, 5MB max. (eg: 1640px x "
+"856px or 3280px x 1712px for retina screens)"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:252
+msgid "Click on tags below to insert variables into your site name."
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:254
+msgid "Article Section"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:255
+msgid "Article Tags"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:256
+msgid "Press enter to create an article tag"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:264
+msgid "Default"
+msgstr ""
+
+#: src/vue/pages/post-settings/views/Facebook.vue:264
+msgid "Default Object Type (Set in Social Networks)"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO")
+#: src/vue/pages/settings/mixins/AccessControl.js:14
+msgid ""
+"By default, only users with an Administrator role have permission to manage "
+"%1$s within your WordPress admin area. With Access Controls, though, you "
+"can easily extend specific access permissions to other user roles."
+msgstr ""
+
+#: src/vue/pages/settings/mixins/AccessControl.js:15
+msgid "Access Control Settings"
+msgstr ""
+
+#: src/vue/pages/settings/mixins/AccessControl.js:16
+msgid "Administrator"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:162
+#: src/vue/pages/settings/mixins/AccessControl.js:17
+msgid "Use Default Settings"
+msgstr ""
+
+#: src/vue/pages/settings/mixins/AccessControl.js:18
+msgid "Editor"
+msgstr ""
+
+#: src/vue/pages/settings/mixins/AccessControl.js:19
+msgid "Author"
+msgstr ""
+
+#: src/vue/pages/settings/mixins/AccessControl.js:20
+msgid "SEO Manager"
+msgstr ""
+
+#: src/vue/pages/settings/mixins/AccessControl.js:21
+msgid "SEO Editor"
+msgstr ""
+
+# Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: src/vue/pages/settings/mixins/AccessControl.js:23
+msgid "By default Admins have access to %1$sall SEO site settings%2$s"
+msgstr ""
+
+# Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: src/vue/pages/settings/mixins/AccessControl.js:25
+msgid ""
+"By default Editors have access to %1$sSEO settings for General Settings, "
+"Search Appearance and Social Networks, as well as all settings for "
+"individual pages and posts.%2$s"
+msgstr ""
+
+# Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: src/vue/pages/settings/mixins/AccessControl.js:27
+msgid ""
+"By default Authors have access to %1$sSEO settings for individual pages and "
+"posts that they already have permission to edit.%2$s"
+msgstr ""
+
+# Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: src/vue/pages/settings/mixins/AccessControl.js:29
+msgid ""
+"By default SEO Managers have access to %1$sSEO settings for General "
+"Settings, Redirections, and individual pages and posts.%2$s"
+msgstr ""
+
+# Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: src/vue/pages/settings/mixins/AccessControl.js:31
+msgid ""
+"By default SEO Editors have access to %1$sSEO settings for individual pages "
+"and posts.%2$s"
+msgstr ""
+
+# Translators: 1 - The current step count. 2 - The total step count.
+#: src/vue/components/common/wizard/Steps.vue:15
+msgid "Step %1$s of %2$s"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO"), 2 - "upgrading to Pro".
+#: src/vue/components/lite/core/UpgradeBar.vue:38
+msgid "You're using %1$s. To unlock more features, consider %2$s."
+msgstr ""
+
+#: src/vue/components/lite/local-business/AreaServed.vue:16
+msgid "The geographic area where a service or offered item is provided."
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessAddress.vue:55
+msgid "Street address:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessAddress.vue:56
+msgid "Street address line 2 (optional):"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessAddress.vue:57
+msgid "Zip code:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessAddress.vue:58
+msgid "City:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessAddress.vue:59
+msgid "State:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessAddress.vue:60
+msgid "Country:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessContact.vue:28
+msgid "Email address:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessContact.vue:29
+msgid "Phone number:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessContact.vue:30
+msgid "Fax number:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessIds.vue:25
+msgid "VAT ID:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/BusinessIds.vue:26
+msgid "Tax ID:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/PaymentInfo.vue:37
+msgid "Price Indicator:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/PaymentInfo.vue:38
+msgid "Accepted Currencies:"
+msgstr ""
+
+#: src/vue/components/lite/local-business/PaymentInfo.vue:39
+msgid "Accepted Payment Methods:"
+msgstr ""
+
+#: src/vue/components/lite/settings/LicenseKey.vue:59
+msgid "Your license key provides access to updates and addons."
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreAnalyze.vue:57
+msgid "Your Overall Site Score"
+msgstr ""
+
+# Translators: 1 - Opening bold HTML tag. 2 - Closing bold HTML tag.
+#: src/vue/components/common/core/SiteScoreAnalyze.vue:59
+msgid "A very good score is between %1$s60 and 80%2$s."
+msgstr ""
+
+# Translators: 1 - Opening bold HTML tag. 2 - Closing bold HTML tag.
+#: src/vue/components/common/core/SiteScoreAnalyze.vue:61
+msgid "For best results, you should strive for %1$s70 and above%2$s."
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreDashboard.vue:64
+msgid "An error occurred while analyzing your site."
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreDashboard.vue:66
+msgid "Warnings"
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreAnalyze.vue:68
+msgid "Read the Ultimate WordPress SEO Guide"
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreDashboard.vue:78
+msgid "The URL provided is invalid."
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreDashboard.vue:80
+msgid "We were unable to parse the content for this site."
+msgstr ""
+
+# Translators: 1 - The plugin short name ('AIOSEO').
+#: src/vue/components/common/core/SiteScoreDashboard.vue:83
+msgid "Your site is not connected. Please connect to %1$s, then try again."
+msgstr ""
+
+#: src/vue/components/common/core/SiteScore.vue:45
+msgid "Analyzing..."
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreCompetitor.vue:80
+msgid "Refresh Results"
+msgstr ""
+
+#: src/vue/components/common/core/SiteScoreCompetitor.vue:81
+msgid "Mobile Snapshot"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:163
+msgid "Robots meta:"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:164
+msgid "Max Snippet"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:165
+msgid "Max Video Preview"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:166
+msgid "Max Image Preview"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:167
+msgid "Standard"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:169
+msgid "Large"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:170
+msgid "No Index"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:171
+msgid "No Follow"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:172
+msgid "No Archive"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:173
+msgid "No Translate"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:174
+msgid "No Image Index"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:175
+msgid "No Snippet"
+msgstr ""
+
+#: src/vue/components/common/core/SingleRobotsMeta.vue:176
+msgid "No ODP"
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:121
+msgid "Your Facebook URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:132
+msgid "Your Twitter URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:143
+msgid "Your Instagram URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:154
+msgid "Your Pinterest URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:165
+msgid "Your YouTube URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:176
+msgid "Your LinkedIn URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:187
+msgid "Your Tumblr URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:198
+msgid "Your Yelp URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:209
+msgid "Your SoundCloud URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:220
+msgid "Your Wikipedia URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:231
+msgid "Your MySpace URL is invalid. Please check the format and try again."
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:238
+msgid "Use the same username for multiple social networks"
+msgstr ""
+
+#: src/vue/components/common/core/SocialProfiles.vue:239
+msgid "Your Username:"
+msgstr ""
+
+#: src/vue/components/common/core/SeoSiteAnalysisResults.vue:107
+msgid "Advanced SEO"
+msgstr ""
+
+#: src/vue/components/common/core/SeoSiteAnalysisResults.vue:108
+msgid "Performance"
+msgstr ""
+
+#: src/vue/components/common/core/SeoSiteAnalysisResults.vue:109
+msgid "Security"
+msgstr ""
+
+#: src/vue/components/common/core/SeoSiteAnalysisResults.vue:110
+msgid "Keywords:"
+msgstr ""
+
+#: src/vue/components/common/core/RobotsMeta.vue:96
+msgid "No Index Paginated"
+msgstr ""
+
+#: src/vue/components/common/core/RobotsMeta.vue:97
+msgid "No Follow Paginated"
+msgstr ""
+
+#: src/vue/components/common/core/SettingsSeparator.vue:101
+msgid "Custom separator:"
+msgstr ""
+
+#: src/vue/components/common/core/SettingsSeparator.vue:102
+msgid "Show More"
+msgstr ""
+
+#: src/vue/components/common/core/SettingsSeparator.vue:103
+msgid "Show Less"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:416
+msgid "Home Page"
+msgstr ""
+
+#: src/vue/components/common/core/PriorityScore.vue:67
+msgid "Archive Pages"
+msgstr ""
+
+#: src/vue/components/common/core/PriorityScore.vue:68
+msgid "Author Pages"
+msgstr ""
+
+#: src/vue/components/common/core/NotificationCards.vue:58
+msgid "Great Scott! Where'd they all go?"
+msgstr ""
+
+#: src/vue/components/common/core/NotificationCards.vue:59
+msgid "You have no new notifications."
+msgstr ""
+
+#: src/vue/components/common/core/NotificationCards.vue:60
+msgid "See Dismissed Notifications"
+msgstr ""
+
+#: src/vue/components/common/core/Notifications.vue:94
+msgid "Dismissed Notifications"
+msgstr ""
+
+#: src/vue/components/common/core/Main.vue:72
+msgid "Save Changes"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:100
+msgid "a minute ago"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:101
+msgid "minutes ago"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:102
+msgid "a day ago"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:103
+msgid "days ago"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:104
+msgid "a month ago"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:105
+msgid "months ago"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:106
+msgid "a year ago"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:107
+msgid "years ago"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:79
+msgid "Dismiss"
+msgstr ""
+
+#: src/vue/components/common/core/Notification.vue:99
+msgid "a few seconds ago"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:102
+msgid "No keywords were found in the page title."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:105
+msgid "No keywords were found in your meta description."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:106
+msgid "No keywords were found in the meta description."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:108
+msgid "Both the page title and meta description are missing keywords."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:112
+msgid "One or more keywords were found in the title and description of your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:113
+msgid "One or more keywords were found in the title and description of the page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:129
+msgid ""
+"You need to use titles and descriptions that are attractive to users and "
+"contain your keywords. Use the keywords naturally - keyword stuffing is "
+"usually detected and will result in a lower ranking. What's more, it's "
+"pretty off-putting for potential readers, who are more likely to click on "
+"an appealing link."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:130
+msgid "Edit Your Page Title & Description"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:139
+msgid "No H1 tag was found."
+msgstr ""
+
+# Translators: 1 - The number of H1 tags found.
+#: src/vue/classes/SiteAnalysis.js:142
+msgid "For the best SEO results there should be exactly one H1 tag on each page."
+msgstr ""
+
+# Translators: 1 - The number of H1 tags found.
+#: src/vue/classes/SiteAnalysis.js:142
+msgid "%1$d H1 tags were found."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:147
+msgid "One H1 tag was found on your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:148
+msgid "One H1 tag was found on the page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:154
+msgid ""
+"WordPress sites usually insert the page or post title as an H1 tag "
+"(although custom themes can change this behavior)."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:154
+msgid ""
+"Ensure your most important keywords appear in the H1 tag - don't force it, "
+"use them in a natural way that makes sense to human readers."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:154
+msgid ""
+"Because your headline plays a large role in reader engagement, it's worth "
+"spending extra time perfecting it. Many top copywriters spend hours getting "
+"their headlines just right - sometimes they spend longer on the headline "
+"than the rest of the article!"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:154
+msgid ""
+"A good headline stimulates reader interest and offers a compelling reason "
+"to read your content. It promises a believable benefit."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:154
+msgid ""
+"You should write as if your readers are selfish people with short attention "
+"spans (because that describes a large percentage of the world's "
+"population). Readers visit websites for selfish reasons - they're not there "
+"to make you happy."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:165
+msgid "No H2 tags were found on your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:166
+msgid "No H2 tags were found on the page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:170
+msgid "H2 tags were found on your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:171
+msgid "H2 tags were found on the page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:177
+msgid ""
+"Make sure you have a good balance of H2 tags to plain text in your content. "
+"Break the content down into logical sections, and use headings to introduce "
+"each new topic."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:177
+msgid ""
+"Also, try to include synonyms and relevant terminology in H2 tag text. "
+"Search engines are pretty smart - they know which words usually occur "
+"together in each niche."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:177
+msgid ""
+"It should be easy to include your main and supporting keywords in the H2 "
+"tags - after all, these keywords describe your content! If it's hard to "
+"work the keywords into your subheadings, it could be a sign that the "
+"keywords aren't closely related to your content."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:177
+msgid ""
+"Don't try to force keywords into sub-headings if they feel unnatural. It "
+"will send the wrong message to your readers, possibly driving them away."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:188
+msgid "Some images on your page have no alt attribute."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:189
+msgid "Some images on the page have no alt attribute."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:193
+msgid "All images on your page have alt attributes."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:194
+msgid "All images on the page have alt attributes."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:200
+msgid ""
+"Make sure every image has an alt tag, and add useful descriptions to each "
+"image. Add your keywords or synonyms - but do it in a natural way."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:211
+msgid "No internal links were found on your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:212
+msgid "No internal links were found on the page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:215
+msgid "Too few internal links on your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:216
+msgid "Too few internal links on the page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:218
+msgid "The ratio of internal links to external links is uneven."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:222
+msgid "Your page has a correct number of internal and external links."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:223
+msgid "The page has a correct number of internal and external links."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:228
+msgid "Internal:"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:228
+msgid "External:"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:229
+msgid ""
+"Add links to external resources that are useful for your readers. Make sure "
+"you link to high-quality sites - Google penalizes pages that link to "
+"\"spammy\" sites (ones that break the Google webmaster guidelines)."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:229
+msgid ""
+"Ideally, the links should be highly relevant to the subject you're writing "
+"about. It's impossible to cover every aspect of a subject on a single page, "
+"but your readers may be fascinated by some detail you barely touch on. If "
+"you link to a resource where they can learn more, they'll be grateful. "
+"What's more, you'll be rewarded with higher rankings!"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:240
+msgid "No canonical link tag found on your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:241
+msgid "No canonical link tag found on the page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:245
+msgid "Your page is using the canonical link tag."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:246
+msgid "The page is using the canonical link tag."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:252
+msgid ""
+"Every page on your site should have a <link> tag with a 'rel=\"canonical\"' "
+"attribute. The link tag should go inside the page's head tag, and it should "
+"contain the page's \"correct\" URL."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:252
+msgid ""
+"If you've republished an article from another source (such as another site "
+"or a different section of your own site) then you need to pick which URL is "
+"the \"correct\" one and use that!"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:263
+msgid "Your page contains a noindex header or meta tag."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:264
+msgid "The page contains a noindex header or meta tag."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:268
+msgid "Your page does not contain any noindex header or meta tag."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:269
+msgid "The page does not contain any noindex header or meta tag."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:274
+msgid ""
+"Only ever use noindex meta tag or header on pages you want to keep out of "
+"the reach of search engines!"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:285
+msgid ""
+"The www and non-www versions of your URL are not redirected to the same "
+"site."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:286
+msgid "The www and non-www versions of the URL are not redirected to the same site."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:290
+msgid ""
+"Both the www and non-www versions of your URL are redirected to the same "
+"site."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:291
+msgid ""
+"Both the www and non-www versions of the URL are redirected to the same "
+"site."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:296
+msgid ""
+"Decide whether you want your site's URLs to include a \"www\", or if you "
+"prefer a plain domain name. There are marketing pros and cons for each "
+"choice, but neither one is better or worse for SEO purposes - as long as "
+"you're consistent."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:296
+msgid ""
+"You should use HTTP redirections (301 permanant redirects) to pass PageRank "
+"from the \"wrong\" URLs to the standard (canonical) ones. That way, your "
+"content will still benefit from backlinks if someone makes a mistake and "
+"uses the wrong URL."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:30
+msgid "We couldn't find an SEO Title."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:307
+msgid "Your robots.txt file is missing or unavailable."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:308
+msgid "The robots.txt file is missing or unavailable."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:327
+msgid ""
+"Your site has a robots.txt file which includes one or more \"disallow\" "
+"directives."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:328
+msgid ""
+"The site has a robots.txt file which includes one or more \"disallow\" "
+"directives."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:332
+msgid "Your site has a robots.txt file."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:333
+msgid "The site has a robots.txt file."
+msgstr ""
+
+# Translators: 1 - The length of the SEO title as a number.
+#: src/vue/classes/SiteAnalysis.js:34
+msgid "Your SEO title is only %1$d characters long, which is too short."
+msgstr ""
+
+# Translators: 1 - The Plugin short name ("AIOSEO").
+#: src/vue/classes/SiteAnalysis.js:340
+msgid "Make sure that you only block parts you don't want to be indexed."
+msgstr ""
+
+# Translators: 1 - The Plugin short name ("AIOSEO").
+#: src/vue/classes/SiteAnalysis.js:340
+msgid ""
+"You can manually create a robots.txt file and upload it to your site's web "
+"root. A simpler option is to use a plugin for your CMS platform."
+msgstr ""
+
+# Translators: 1 - The Plugin short name ("AIOSEO").
+#: src/vue/classes/SiteAnalysis.js:340
+msgid ""
+"%1$s has a full suite of tools to manage the robots.txt file, along with "
+"other related technologies, like XML Sitemaps."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:350
+msgid "Some Open Graph meta tags are missing."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:352
+msgid "Duplicate Open Graph meta tags were found."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:355
+msgid "All the required Open Graph meta tags have been found."
+msgstr ""
+
+# Translators: 1 - The length of the SEO title as a number.
+#: src/vue/classes/SiteAnalysis.js:36
+msgid "The SEO title is only %1$d characters long, which is too short."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:362
+msgid ""
+"Insert a customized Open Graph meta tag for each important page on your "
+"site. The standard is very well documented - you can learn more from "
+"Facebook's developer pages."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:362
+msgid ""
+"%1$s provides a simple but powerful interface to craft your Open Graph "
+"data. You get immediate feedback with an interactive preview, and you don't "
+"have to mess around with raw HTML markup."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:373
+msgid "No Schema.org data was found on your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:374
+msgid "No Schema.org data was found on the page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:378
+msgid "We found Schema.org data on your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:379
+msgid "We found Schema.org data on the page."
+msgstr ""
+
+# Translators: 1 - The Plugin short name ("AIOSEO").
+#: src/vue/classes/SiteAnalysis.js:385
+msgid ""
+"%1$s makes it extremely easy to add highly relevant Schema.org markup to "
+"your site. It has a simple graphical interface, so you don't have to get "
+"your hands dirty with complex HTML markup."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:386
+msgid "Edit Your Page"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:396
+msgid "Your server is not using \"expires\" headers for your images."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:397
+msgid "The server is not using \"expires\" headers for the images."
+msgstr ""
+
+# Translators: 1 - The length of the SEO title as a number.
+#: src/vue/classes/SiteAnalysis.js:40
+msgid "Your SEO title is %1$d characters long, which is too long."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:401
+msgid "Your server is using \"expires\" headers for your images."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:402
+msgid "The server is using \"expires\" headers for the images."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:407
+msgid ""
+"If you use the Apache or NGINX web servers, you can edit the configuration "
+"files to set the \"expires\" header for all image files. For Apache, you "
+"can also use a \".htaccess\" file to change the settings for each folder."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:407
+msgid ""
+"Alternatively, you can use a CMS plugin to simplify the process - it's a "
+"more user-friendly option. WordPress has a host of caching plugins, and "
+"most of them give you options to control the caching headers."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:415
+msgid "Some Javascript files don't seem to be minified."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:418
+msgid "All Javascript files appear to be minified."
+msgstr ""
+
+# Translators: 1 - The length of the SEO title as a number.
+#: src/vue/classes/SiteAnalysis.js:42
+msgid "The SEO title is %1$d characters long, which is too long."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:424
+msgid ""
+"JavaScript files appear in many places, including frameworks (like "
+"Bootstrap), themes and templates, and third-party plugins."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:424
+msgid "We recommend tracking down where the un-minified JavaScript files come from"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:424
+msgid ""
+"There are server-side tools (including WordPress plugins) to automatically "
+"minify JavaScript files."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:432
+msgid "Some CSS files don't seem to be minified."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:435
+msgid "All CSS files appear to be minified."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:441
+msgid ""
+"CSS files appear in many places, including frameworks (like Bootstrap), "
+"themes and templates, and third-party plugins."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:441
+msgid "We recommend tracking down where the un-minified CSS files come from."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:441
+msgid ""
+"There are server-side tools (including WordPress plugins) to automatically "
+"minify CSS files."
+msgstr ""
+
+# Translators: 1 - The total number of page requests.
+#: src/vue/classes/SiteAnalysis.js:450
+msgid "Your page makes %1$d requests."
+msgstr ""
+
+# Translators: 1 - The total number of page requests.
+#: src/vue/classes/SiteAnalysis.js:452
+msgid "The page makes %1$d requests."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:454
+msgid "More than 20 requests can result in slow page loading."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:462
+msgid "Images:"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:462
+msgid "JavaScript:"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:462
+msgid "CSS:"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:463
+msgid "Try to replace embedded objects with HTML5 alternatives."
+msgstr ""
+
+# Translators: 1 - The length of the SEO title as a number.
+#: src/vue/classes/SiteAnalysis.js:47
+msgid "Your SEO title is set and is %1$d characters long."
+msgstr ""
+
+# Translators: 1 - The total number of page requests.
+#: src/vue/classes/SiteAnalysis.js:471
+msgid "The size of the HTML document is %1$d Kb."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:473
+msgid "This is over our recommendation of 50 Kb."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:477
+msgid "This is under the average of 33 Kb."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:485
+msgid ""
+"In order to reduce page size, remove any unnecessary tags from your markup. "
+"This includes developer comments, which are invisible to your users - "
+"search engines ignore the text in comments, too."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:485
+msgid ""
+"Sometimes inline CSS is a culprit. A little inline CSS can help your page "
+"render faster. Too much will bloat the HTML file and increase the page "
+"loading time."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:485
+msgid ""
+"You can reduce CSS repetition with HTML class and ID attributes. Often the "
+"same rules will be repeated across many page elements, embedded in each "
+"tag's \"style\" attribute. You can extract them into a single \"style\" tag "
+"and use classes and ID's to target each element."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:485
+msgid ""
+"Removing white space can also have an impact on your HTML page's size. "
+"White space characters like carriage returns and tabs are ignored by the "
+"browser, but they make the markup easier for developers to read. So you "
+"should always strip them from your templates or themes before you use them "
+"in a production environment."
+msgstr ""
+
+# Translators: 1 - The length of the SEO title as a number.
+#: src/vue/classes/SiteAnalysis.js:49
+msgid "The SEO title is set and is %1$d characters long."
+msgstr ""
+
+# Translators: 1 - The total number of page requests.
+#: src/vue/classes/SiteAnalysis.js:495
+msgid ""
+"The response time of your page is %1$f seconds. It is recommended to keep "
+"it equal to or below 0.2 seconds."
+msgstr ""
+
+# Translators: 1 - The total number of page requests.
+#: src/vue/classes/SiteAnalysis.js:497
+msgid ""
+"The response time of the page is %1$f seconds. It is recommended to keep it "
+"equal to or below 0.2 seconds."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:501
+msgid "Your response time is under 0.2 seconds."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:502
+msgid "The response time is under 0.2 seconds."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:507
+msgid ""
+"If you want to continue to improve your response time, the simplest and "
+"fastest fix is to use a caching plugin. Caching plugins keep a cached "
+"version of each page on your site. Instead of building the page from "
+"scratch, the server will send the cached copy."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:507
+msgid ""
+"You can get an even greater boost in speed with a content delivery network "
+"service. These services host a copy of your content on multiple servers "
+"spread out across the globe. A user's request is handled by the edge server "
+"that's closest to their physical location, so the content arrives "
+"incredibly fast."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:516
+msgid "Plugins from your website are publicly visible."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:517
+msgid "Plugins from the website are publicly visible."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:521
+msgid "You have no visible plugins!"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:522
+msgid "There are no visible plugins."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:528
+msgid ""
+"It's a great idea to try and hide the plugins you have visible. From time "
+"to time vulnerabilities are found in plugins and if your site is not "
+"updated in a timely fashion, outdated plugins and themes can be exploited."
+msgstr ""
+
+# Translators: 1 - The name of the theme.
+#: src/vue/classes/SiteAnalysis.js:538
+msgid "Anyone can see that you are using the %1$s theme."
+msgstr ""
+
+# Translators: 1 - The name of the theme.
+#: src/vue/classes/SiteAnalysis.js:540
+msgid "Anyone can see that they are using the %1$s theme."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:544
+msgid "Your theme is not visible!"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:545
+msgid "The theme is not visible."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:55
+msgid ""
+"Ensure your page's title includes your target keywords, and design it to "
+"encourage users to click."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:55
+msgid ""
+"Writing compelling titles is both a science and an art. There are automated "
+"tools that can analyze your title against known metrics for readability and "
+"click-worthiness. You also need to understand the psychology of your target "
+"audience."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:550
+msgid ""
+"It's a great idea to try and hide the theme you have visible. From time to "
+"time vulnerabilities are found in themes and if your site is not updated in "
+"a timely fashion, outdated plugins and themes can be exploited."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:559
+msgid "Directory Listing seems to be enabled on your server."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:56
+msgid "Edit Your Page Title"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:560
+msgid "Directory Listing seems to be enabled on the server."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:564
+msgid "Directory Listing seems to be disabled on your server."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:565
+msgid "Directory Listing seems to be disabled on the server."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:570
+msgid ""
+"Fortunately, every popular web server has options to prevent directory "
+"listings. They'll show a \"403 forbidden\" message instead."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:570
+msgid ""
+"Alternatively, you can create an empty index.php file and save it in every "
+"directory on your site. That's an approach that WordPress uses and it works "
+"well."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:579
+msgid "It looks like your site has been added to one of Google's malwares lists."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:580
+msgid "It looks like this site has been added to one of Google's malwares lists."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:584
+msgid "Google has not flagged your site for malware!"
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:585
+msgid "Google has not flagged this site for malware."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:590
+msgid ""
+"Google Safe browsing shows warnings and alerts to users if they visit a "
+"suspicious website. If you are flagged by Google Safe Browsing, you should "
+"take immediate steps to fix that."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:599
+msgid "Your site is not using a secure transfer protocol (https)."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:600
+msgid "The site is not using a secure transfer protocol (https)."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:604
+msgid "Your site is using a secure transfer protocol (https)."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:605
+msgid "The site is using a secure transfer protocol (https)."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:610
+msgid ""
+"If you aren't using an SSL certificate for your site that means you are "
+"losing a lot of potential traffic. We recommend getting an SSL certificate "
+"installed immediately."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:66
+msgid "No meta description was found for your page."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:67
+msgid "No meta description was found for the page."
+msgstr ""
+
+# Translators: 1 - The length of the meta description as a number.
+#: src/vue/classes/SiteAnalysis.js:71
+msgid "Your meta description is only %1$d characters long, which is too short."
+msgstr ""
+
+# Translators: 1 - The length of the meta description as a number.
+#: src/vue/classes/SiteAnalysis.js:73
+msgid "The meta description is only %1$d characters long, which is too short."
+msgstr ""
+
+# Translators: 1 - The length of the meta description as a number.
+#: src/vue/classes/SiteAnalysis.js:77
+msgid "Your meta description is %1$d characters long, which is too long."
+msgstr ""
+
+# Translators: 1 - The length of the meta description as a number.
+#: src/vue/classes/SiteAnalysis.js:79
+msgid "The meta description is %1$d characters long, which is too long."
+msgstr ""
+
+# Translators: 1 - The length of the meta description as a number.
+#: src/vue/classes/SiteAnalysis.js:84
+msgid "Your meta description is set and is %1$d characters long."
+msgstr ""
+
+# Translators: 1 - The length of the meta description as a number.
+#: src/vue/classes/SiteAnalysis.js:86
+msgid "The meta description is set and is %1$d characters long."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:92
+msgid ""
+"Write a meta description for your page. Use your target keywords (in a "
+"natural way) and write with human readers in mind. Summarize the content - "
+"describe the topics your article discusses."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:92
+msgid ""
+"The description should stimulate reader interest and get them to click on "
+"the article. Think of it as a mini-advertisement for your content."
+msgstr ""
+
+#: src/vue/classes/SiteAnalysis.js:93
+msgid "Edit Your Meta Description"
+msgstr ""
+
+#: src/vue/components/common/core/PostTypeOptions.vue:86
+msgid "Label:"
+msgstr ""
+
+#: src/vue/components/common/core/PostTypeOptions.vue:87
+msgid "Slug:"
+msgstr ""
+
+#: src/vue/components/common/core/PostTypeOptions.vue:88
+msgid "No post types available."
+msgstr ""
+
+#: src/vue/components/common/core/PostTypeOptions.vue:89
+msgid "No taxonomies available."
+msgstr ""
+
+#: src/vue/components/common/core/PostTypeOptions.vue:90
+msgid ""
+"All post types are set to noindex or your site does not have any post types "
+"registered that are supported by this feature."
+msgstr ""
+
+#: src/vue/components/common/core/PostTypeOptions.vue:91
+msgid ""
+"All taxonomies are set to noindex or your site does not have any taxonomies "
+"registered that are supported by this feature."
+msgstr ""
+
+#: src/vue/components/common/core/Help.vue:126
+msgid "Close"
+msgstr ""
+
+#: src/vue/components/common/core/Help.vue:127
+msgid "Search"
+msgstr ""
+
+#: src/vue/components/common/core/Help.vue:128
+msgid "View All"
+msgstr ""
+
+#: src/vue/components/common/core/Help.vue:129
+msgid "Docs"
+msgstr ""
+
+#: src/vue/components/common/core/Help.vue:130
+msgid "View Documentation"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOEO").
+#: src/vue/components/common/core/Help.vue:132
+msgid "Browse documentation, reference material, and tutorials for %1$s."
+msgstr ""
+
+#: src/vue/components/common/core/Help.vue:133
+msgid "View All Documentation"
+msgstr ""
+
+#: src/vue/components/common/core/Help.vue:134
+msgid "Get Support"
+msgstr ""
+
+#: src/vue/components/common/core/Help.vue:135
+msgid "Submit a ticket and our world class support team will be in touch soon."
+msgstr ""
+
+#: src/vue/components/common/core/Help.vue:136
+msgid "Submit a Support Ticket"
+msgstr ""
+
+#: src/vue/components/common/core/FeatureCard.vue:122
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: src/vue/components/common/core/HtmlTagsEditor.vue:98
+msgid "Click on the tags below to insert variables into your template."
+msgstr ""
+
+#: src/vue/components/common/core/HtmlTagsEditor.vue:99
+msgid "View all tags"
+msgstr ""
+
+#: src/vue/components/common/core/CopyBlock.vue:48
+msgid "Click to Copy"
+msgstr ""
+
+#: src/vue/components/common/core/ExcludePosts.vue:100
+msgid "No results found for that title. Try again!"
+msgstr ""
+
+#: src/vue/components/common/core/ExcludePosts.vue:101
+msgid "Clear"
+msgstr ""
+
+#: src/vue/components/common/core/ExcludePosts.vue:102
+msgid "ID"
+msgstr ""
+
+#: src/vue/components/common/core/ExcludePosts.vue:103
+msgid "Type"
+msgstr ""
+
+#: src/vue/components/common/core/ExcludePosts.vue:98
+msgid "Type to search..."
+msgstr ""
+
+#: src/vue/components/common/core/ExcludePosts.vue:99
+msgid "Begin typing a title to search..."
+msgstr ""
+
+#: src/vue/components/common/core/GettingStarted.vue:83
+msgid "How to Get Started"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/components/common/core/GettingStarted.vue:85
+msgid "Welcome to %1$s"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/components/common/core/GettingStarted.vue:87
+msgid ""
+"Thank you for choosing the best WordPress SEO plugin. %1$s default settings "
+"works great out of the box. We created the setup wizard to guide you "
+"through some important configuration settings & custom-tailored SEO best "
+"practices for your site to help you improve rankings."
+msgstr ""
+
+#: src/vue/components/common/core/GettingStarted.vue:88
+msgid "Launch the Setup Wizard"
+msgstr ""
+
+#: src/vue/components/common/core/GettingStarted.vue:89
+msgid "Read the Setup Guide"
+msgstr ""
+
+#: src/vue/components/common/core/FeatureCard.vue:123
+msgid "Upgrade Your Plan"
+msgstr ""
+
+#: src/vue/components/common/core/AdditionalPages.vue:100
+msgid "Last Modified"
+msgstr ""
+
+#: src/vue/components/common/core/AdditionalPages.vue:102
+msgid "Add New"
+msgstr ""
+
+#: src/vue/components/common/core/AdditionalPages.vue:103
+#: src/vue/plugins/constants.js:19
+msgid "always"
+msgstr ""
+
+# Translators: 1 - An example URL (e.g. https://aioseo.com/example).
+#: src/vue/components/common/core/AdditionalPages.vue:96
+msgid "Enter a page URL, e.g. %1$s"
+msgstr ""
+
+#: src/vue/components/common/core/AdditionalPages.vue:97
+msgid "Page URL"
+msgstr ""
+
+#: src/vue/pages/about/views/Main.vue:23
+msgid "About"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO"), 2 - "Pro" string.
+#: src/vue/pages/about/views/GettingStarted.vue:129
+msgid "Get %1$s %2$s and Unlock all the Powerful Features"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO"), 2 - "Pro" string.
+#: src/vue/pages/about/views/GettingStarted.vue:131
+msgid "Get %1$s %2$s and Unlock all the Powerful Features."
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:140
+msgid "Social Meta for Categories, Tags and Custom Taxonomies"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:147
+msgid "Video Tutorials"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:148
+msgid "View all video tutorials"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO").
+#: src/vue/pages/about/views/GettingStarted.vue:153
+msgid "%1$s Documentation"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:154
+msgid "See our full documentation"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:160
+msgid "Basic Guide to Google Analytics"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:164
+msgid "Basic Guide to Google Search Console"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:168
+msgid "Best Practices for Domains and URLs"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:172
+msgid "How to Control Search Results"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO Pro"), 2 - "Pro" string.
+#: src/vue/pages/about/views/GettingStarted.vue:177
+msgid "Installing %1$s %2$s"
+msgstr ""
+
+#: src/vue/pages/about/views/GettingStarted.vue:181
+msgid "Optimizing your Content Headings"
+msgstr ""
+
+#: src/vue/components/common/base/Editor.vue:122
+msgid "Search for an item..."
+msgstr ""
+
+#: src/vue/components/common/base/Editor.vue:123
+msgid "Enter a custom field name..."
+msgstr ""
+
+#: src/vue/utils/tags.js:64
+msgid "Product Short Description"
+msgstr ""
+
+#: src/vue/utils/tags.js:65
+msgid "A short description for your product."
+msgstr ""
+
+#: src/vue/utils/tags.js:66
+msgid "Sample short description for your product."
+msgstr ""
+
+#: src/vue/utils/tags.js:82
+msgid "Archive"
+msgstr ""
+
+#: src/vue/utils/tags.js:83
+msgid "archive"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:377
+msgid "Global Robots Meta"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:378
+msgid "Noindex Empty Category and Tag Archives"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:379
+msgid "Remove Stopwords from Permalinks"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:380
+msgid "Remove Category Base Prefix"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:383
+msgid "Automatically Add Missing Image Alt / Title Tags"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:386
+msgid "Autogenerate Descriptions"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:387
+msgid "Use Content for Autogenerated Descriptions"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:388
+msgid "Run Shortcodes in Description"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:389
+msgid "No Pagination for Canonical URLs"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:390
+msgid "Use Meta Keywords"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:391
+msgid ""
+"This option allows you to toggle the use of Meta Keywords throughout the "
+"whole of the site."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:392
+msgid "Use Categories for Meta Keywords"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:393
+msgid ""
+"Check this if you want your categories for a given post used as the Meta "
+"Keywords for this post (in addition to any keywords you specify on the Edit "
+"Post screen)."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:394
+msgid "Use Tags for Meta Keywords"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:395
+msgid ""
+"Check this if you want your tags for a given post used as the Meta Keywords "
+"for this post (in addition to any keywords you specify on the Edit Post "
+"screen)."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:396
+msgid "Dynamically Generate Meta Keywords"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:397
+msgid ""
+"Check this if you want your keywords on your Posts page (set in WordPress "
+"under Settings, Reading, Front Page Displays) and your archive pages to be "
+"dynamically generated from the keywords of the posts showing on that page. "
+"If unchecked, it will use the keywords set in the edit page screen for the "
+"posts page."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:398
+msgid "Paged Format"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:399
+msgid ""
+"This string gets appended/prepended to titles and descriptions of paged "
+"index pages (like home or archive pages)."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:400
+msgid "Description Format"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:403
+msgid "Enable Sitelinks Search Box"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO").
+#: src/vue/pages/search-appearance/views/Advanced.vue:405
+msgid ""
+"Choose whether %1$s should output the required schema markup that Google "
+"needs to generate a sitelinks search box."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Advanced.vue:406
+msgid ""
+"A Description tag is required in order to properly display your meta "
+"descriptions on your site."
+msgstr ""
+
+#: src/vue/plugins/constants.js:1041
+msgid "Manually Enter Type"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1043
+msgid "Technical Support"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1044
+msgid "Billing Support"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1045
+msgid "Bill Payment"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1046
+msgid "Sales"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1047
+msgid "Reservations"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1048
+msgid "Credit Card Support"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1049
+msgid "Emergency"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1050
+msgid "Bagage Tracking"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1051
+msgid "Roadside Assistance"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1052
+msgid "Package Tracking"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1059
+msgid ""
+"Sitemaps are a list of all your content that search engines use when they "
+"crawl your site."
+msgstr ""
+
+#: src/vue/plugins/constants.js:1069
+msgid "Optimized Search Appearance"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1070
+msgid "Get all the right tools to make sure your website shows up in Google Search."
+msgstr ""
+
+#: src/vue/plugins/constants.js:1078
+msgid ""
+"Get the #1 analytics plugin to see how people find and use your website. "
+"Simply put, see stats that matter."
+msgstr ""
+
+#: src/vue/plugins/constants.js:1085
+msgid "Breadcrumbs"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1094
+msgid ""
+"Globally control Title and Alt attributes for attachment pages and images "
+"that are embedded in your content."
+msgstr ""
+
+#: src/vue/plugins/constants.js:1105
+msgid ""
+"Tell Google about your business for display as a Knowledge Graph card or "
+"business carousel."
+msgstr ""
+
+#: src/vue/plugins/constants.js:1116
+msgid "Generate an XML Sitemap specifically for video content on your site."
+msgstr ""
+
+#: src/vue/plugins/constants.js:1127
+msgid "Submit articles to Google News that were published in the last 48 hours."
+msgstr ""
+
+#: src/vue/plugins/constants.js:1137
+msgid "Smart Redirects + 404 Detection"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1145
+msgid "Internal Link Building Assistant"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1153
+msgid "Advanced Rich Snippets + Schema Markups"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1164
+msgid "Activities"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1166
+msgid "Activity"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1167
+msgid "Sport"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1171
+msgid "Businesses"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1173
+msgid "Bar"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1174
+msgid "Company"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1175
+msgid "Cafe"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1176
+msgid "Hotel"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1177
+msgid "Restaurant"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1181
+msgid "Groups"
+msgstr ""
+
+# Translators: This refers to a charity/non-profit organization.
+#: src/vue/plugins/constants.js:1184
+msgid "Cause"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1185
+msgid "Sports League"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1186
+msgid "Sports Team"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1190
+msgid "Organizations"
+msgstr ""
+
+# Translators: This refers to a music group.
+#: src/vue/plugins/constants.js:1193
+msgid "Band"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1194
+msgid "Non-Profit"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1195
+msgid "School"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1196
+msgid "University"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1200
+msgid "People"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1202
+msgid "Actor"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1203
+msgid "Athlete"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1205
+msgid "Director"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1206
+msgid "Musician"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1207
+msgid "Politician"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1208
+msgid "Profile"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1209
+msgid "Public Figure"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1213
+msgid "Places"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1215
+msgid "City"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1216
+msgid "Country"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1217
+msgid "Landmark"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1218
+msgid "State/Province"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1222
+msgid "Products & Entertainment"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1224
+msgid "Album"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1225
+msgid "Book"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1226
+msgid "Drink"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1227
+msgid "Food"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1228
+msgid "Game"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1229
+msgid "Movie"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1230
+msgid "Product"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1231
+msgid "Song"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1232
+msgid "TV Show"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1233
+msgid "Episode"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1237
+msgid "Websites"
+msgstr ""
+
+#: src/vue/plugins/constants.js:1240
+msgid "Website"
+msgstr ""
+
+#: src/vue/plugins/constants.js:20
+msgid "hourly"
+msgstr ""
+
+#: src/vue/plugins/constants.js:21
+msgid "daily"
+msgstr ""
+
+#: src/vue/plugins/constants.js:22
+msgid "weekly"
+msgstr ""
+
+#: src/vue/plugins/constants.js:23
+msgid "monthly"
+msgstr ""
+
+#: src/vue/plugins/constants.js:24
+msgid "yearly"
+msgstr ""
+
+#: src/vue/plugins/constants.js:25
+msgid "never"
+msgstr ""
+
+#: src/vue/plugins/constants.js:29
+msgid "No"
+msgstr ""
+
+#: src/vue/plugins/constants.js:30
+msgid "Yes"
+msgstr ""
+
+#: src/vue/plugins/constants.js:31
+msgid "Off"
+msgstr ""
+
+#: src/vue/plugins/constants.js:32
+msgid "On"
+msgstr ""
+
+#: src/vue/plugins/constants.js:33
+msgid "Show"
+msgstr ""
+
+#: src/vue/plugins/constants.js:34
+msgid "Hide"
+msgstr ""
+
+#: src/vue/plugins/constants.js:35
+msgid "Learn More"
+msgstr ""
+
+#: src/vue/plugins/constants.js:36
+msgid "Disabled"
+msgstr ""
+
+#: src/vue/plugins/constants.js:37
+msgid "Enabled"
+msgstr ""
+
+#: src/vue/plugins/constants.js:38
+msgid "Preview"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/isInternalLink.js:22
+msgid "You are linking to other resources on your website which is great."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/isInternalLink.js:30
+msgid "Internal links"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/isInternalLink.js:31
+msgid ""
+"We couldn't find any internal links in your content. Add internal links in "
+"your content."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/isExternalLink.js:22
+msgid "Great! You are linking to external resources."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/isExternalLink.js:30
+msgid "External links"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/isExternalLink.js:31
+msgid "No outbound links were found. Link out to external resources."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/calculateFleschReading.js:47
+msgid "Good job!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/calculateFleschReading.js:51
+msgid "very easy"
+msgstr ""
+
+# Translators: 1 - Flesch Reading Result Number, 2 - Read difficulty string.
+#: src/vue/plugins/truSEO/Analysis/calculateFleschReading.js:79
+msgid "The copy scores %1$s in the test, which is considered %2$s to read."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/calculateFleschReading.js:87
+msgid "Flesch Reading Ease"
+msgstr ""
+
+# Translators: 1 - Flesch Reading Result Number, 2 - Read difficulty string, 3 - Note string.
+#: src/vue/plugins/truSEO/Analysis/calculateFleschReading.js:89
+msgid "The copy scores %1$s in the test, which is considered %2$s to read. %3$s"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/calculateFleschReading.js:97
+msgid "Flesch Reading Ease N/A"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/calculateFleschReading.js:98
+msgid ":-)"
+msgstr ""
+
+# Translators: 1 - Number of sentences.
+#: src/vue/plugins/truSEO/Analysis/consecutiveSentences.js:23
+msgid ""
+"The text contains %1$d consecutive sentences starting with the same word. "
+"Try to mix things up!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/consecutiveSentences.js:31
+msgid "Consecutive sentences"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/consecutiveSentences.js:32
+msgid "There is enough variety in your sentences. That's great!"
+msgstr ""
+
+# Translators: 1 - Expand to the number of text sections not separated by subheadings, 2 - expands to the recommended number of words following a subheading.
+#: src/vue/plugins/truSEO/Analysis/subheadingsDistribution.js:65
+msgid ""
+"%1$d section of your text is longer than %2$d words and is not separated by "
+"any subheadings. Add subheadings to improve readability."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/subheadingsDistribution.js:74
+msgid ""
+"You are not using any subheadings, although your text is rather long. Try "
+"and add some subheadings."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/subheadingsDistribution.js:84
+msgid "Great job!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/subheadingsDistribution.js:92
+msgid "Subheading distribution"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/subheadingsDistribution.js:93
+msgid ""
+"You are not using any subheadings, but your text is short enough and "
+"probably doesn't need them."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/paragraphLength.js:23
+msgid "At least one paragraph is long. Consider using short paragraphs."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/paragraphLength.js:30
+msgid "Paragraphs Length"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/paragraphLength.js:31
+msgid "You are using short paragraphs."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/transitionWords.js:21
+msgid "None of the sentences contain transition words. Use some"
+msgstr ""
+
+# Translators: 1 - Percentage of the sentences.
+#: src/vue/plugins/truSEO/Analysis/transitionWords.js:32
+msgid ""
+"Only %1$s of the sentences contain transition words, which is not enough. "
+"Use more of them"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/transitionWords.js:40
+msgid "Transition words"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/transitionWords.js:41
+msgid "Well done!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/passiveVoice.js:38
+msgid "You're using enough active voice. That's great!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/passiveVoice.js:45
+msgid "Passive Voice"
+msgstr ""
+
+# Translators: 1 - Percentage of the sentences, 2 - Expected maximum percentage of sentences.
+#: src/vue/plugins/truSEO/Analysis/passiveVoice.js:47
+msgid ""
+"%1$s of the sentences contain passive voice, which is more than the "
+"recommended maximum of %2$s. Try to use their active counterparts"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/sentenceLength.js:34
+msgid "Sentence length is looking great!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/sentenceLength.js:52
+msgid "Sentences Length"
+msgstr ""
+
+# Translators: 1 - Number of the sentences, 2 - Number of words, 3 - Recommended maximum of words.
+#: src/vue/plugins/truSEO/Analysis/sentenceLength.js:54
+msgid ""
+"%1$s of the sentences contain more than %2$s words, which is more than the "
+"recommended maximum of %3$s. Try to shorten the sentences."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/titleLength.js:21
+msgid "Please add a title first."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/titleLength.js:31
+msgid "No title has been specified. Make sure to write one!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/titleLength.js:41
+msgid "The title is too short."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/titleLength.js:50
+msgid "SEO Title length"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/titleLength.js:51
+msgid "The title is over 60 characters."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/titleLength.js:60
+msgid "Title Length"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/lengthContent.js:27
+msgid "Please add some content first."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/contentHasAssets.js:24
+msgid "Your content contains images and/or video(s).."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/contentHasAssets.js:31
+msgid "Images/Videos in content"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/contentHasAssets.js:32
+msgid "You are not using rich media like images or videos."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/metadescriptionLength.js:26
+msgid ""
+"No meta description has been specified. Search engines will display copy "
+"from the page instead. Make sure to write one!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/metadescriptionLength.js:36
+msgid "The meta description is too short."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/metadescriptionLength.js:45
+msgid "Meta description length"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/metadescriptionLength.js:46
+msgid "The meta description is over 160 characters."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/metadescriptionLength.js:55
+msgid "Meta description Length"
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseInImageAlt.js:28
+msgid "%1$s found in image alt attribute(s)."
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseInImageAlt.js:37
+msgid "%1$s in image alt attributes"
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseInImageAlt.js:39
+msgid ""
+"%1$s not found in image alt attribute(s). Add an image with your %1$s as "
+"alt text."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInSubHeadings.js:47
+msgid "Use more focus keyphrases in your H2 and H3 subheadings!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInSubHeadings.js:56
+msgid ""
+"More than 75% of your H2 and H3 subheadings reflect the topic of your copy. "
+"That's too much. Don't over-optimize!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInSubHeadings.js:65
+msgid "Your H2 or H3 subheading reflects the topic of your copy. Good job!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInSubHeadings.js:74
+msgid "Your H2 and H3 subheadings reflects the topic of your copy. Good job!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInSubHeadings.js:82
+msgid "Focus Keyphrase in Subheadings"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInSubHeadings.js:83
+msgid "Use your focus keyphrase more in your H2 and H3 subheadings"
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseInIntroduction.js:24
+msgid "%1$s in introduction"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInIntroduction.js:29
+msgid "No content added yet."
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseInIntroduction.js:44
+msgid "Your %1$s appears in the first paragraph. Well done!"
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseInIntroduction.js:54
+msgid ""
+"Your %1$s does not appear in the first paragraph. Make sure the topic is "
+"clear immediately."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInContent.js:22
+msgid "Focus Keyphrase found in content."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInContent.js:30
+msgid "Focus Keyphrase in content"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInContent.js:31
+msgid "Focus Keyphrase not found in content."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInURL.js:26
+msgid "Focus Keyphrase used in the URL."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInURL.js:34
+msgid "Focus Keyphrase in URL"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInURL.js:35
+msgid "Focus Keyphrase not found in the URL."
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseInDescription.js:21
+msgid "%1$s in meta description"
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseInDescription.js:27
+msgid "%1$s found in meta description."
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseInDescription.js:37
+msgid "%1$s not found in meta description."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseBeginningTitle.js:20
+msgid "Focus Keyphrase used at the beginning of SEO title."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseBeginningTitle.js:28
+msgid "Focus Keyphrase at the beginning of SEO Title"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseBeginningTitle.js:29
+msgid "Focus Keyphrase doesn't appear at the beginning of SEO title."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInTitle.js:22
+msgid "Focus Keyphrase found in SEO title."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInTitle.js:30
+msgid "Focus Keyphrase in SEO title"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/keyphraseInTitle.js:31
+msgid "Focus Keyphrase not found in SEO title."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/lengthContent.js:38
+msgid "The content length is ok. Good job!"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/lengthContent.js:54
+msgid "This is far below the recommended minimum of words."
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/lengthContent.js:72
+msgid "Content Length"
+msgstr ""
+
+#: src/vue/plugins/truSEO/Analysis/lengthContent.js:73
+msgid "The content is below the minimum of words. Add more content."
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseLength.js:25
+msgid "%1$s length"
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseLength.js:31
+msgid "No %1$s was set. Set a %1$s in order to calculate your SEO score."
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseLength.js:52
+msgid "%1$s is slightly long. Try to make it shorter."
+msgstr ""
+
+# Translators: 1 - Focus Keyphrase or Keyphrase.
+#: src/vue/plugins/truSEO/Analysis/keyphraseLength.js:62
+msgid "%1$s is too long. Try to make it shorter."
+msgstr ""
+
+#: src/vue/plugins/truSEO/researches/helpers/getKeyphraseType.js:6
+msgid "Focus keyphrase"
+msgstr ""
+
+#: src/vue/plugins/truSEO/researches/helpers/getKeyphraseType.js:8
+msgid "Keyphrase"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:124
+msgid "Set title attributes"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:125
+msgid "Set alt tag attributes"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:126
+msgid "Strip punctuation for titles"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:127
+msgid "Strip punctuation for alt tags"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/lite/CustomFields.vue:51
+msgid "Custom Fields"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/lite/CustomFields.vue:52
+msgid ""
+"List of custom field names to include in the SEO Page Analysis. Add one per "
+"line."
+msgstr ""
+
+# Translators: 1 - Plugin short name ("AIOSEO"), 2 - "Pro".
+#: src/vue/pages/search-appearance/views/partials/lite/CustomFields.vue:54
+msgid ""
+"%1$s %2$s gives you advanced customizations for our page analysis feature, "
+"letting you add custom fields to analyze."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/lite/CustomFields.vue:55
+msgid "Upgrade to Pro and Unlock Custom Fields"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/lite/CustomFields.vue:56
+msgid "Custom Fields are only available for licensed %1$s %2$s users."
+msgstr ""
+
+# Translators: 1 - Plugin short name ("AIOSEO"), 2 - "Pro".
+#: src/vue/pages/search-appearance/views/partials/lite/Schema.vue:76
+msgid ""
+"%1$s %2$s allows you to customize the structured data markup on Posts, "
+"Pages, Categories, Tags, etc."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/lite/Schema.vue:77
+msgid "Upgrade to Pro and Unlock Advanced Schema Markup"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/lite/Schema.vue:78
+msgid "Advanced Schema Markup is only available for licensed %1$s %2$s users."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Media.vue:115
+msgid "Title & Description"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Media.vue:121
+msgid "Schema Markup"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:412
+msgid "Title Separator"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:413
+msgid "Separator Character"
+msgstr ""
+
+# Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:415
+msgid ""
+"The home page settings below have been disabled because you are using a "
+"static home page. You can %1$sedit your home page settings%2$s directly to "
+"change the title and description."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:417
+msgid "Site Title"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:421
+msgid "Knowledge Graph"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:422
+msgid ""
+"Google, Bing and other search engines use specific data from your schema "
+"markup to output data in their Knowledge Panels. This data is known as the "
+"Knowledge Graph. Use these settings to change how that data looks."
+msgstr ""
+
+# Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag., 3 - "Pro", 4 - "Pro".
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:439
+msgid ""
+"Go to %1$sLocal SEO Settings%2$s and set up your local business info like "
+"location address, opening hours (%3$s), and Google Maps settings (%4$s)."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:440
+msgid "Go to Local SEO Settings"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/GlobalSettings.vue:441
+msgid "Enable Schema Markup"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:114
+msgid "Title Attribute Format"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:115
+msgid "Strip Punctuation for Title Attributes"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:116
+msgid "Click on the tags below to insert variables into your title attribute."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:117
+msgid "Alt Tag Attribute Format"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:118
+msgid "Click on the tags below to insert variables into your alt tag attribute."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:119
+msgid "Strip Punctuation for Alt Attributes"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:122
+msgid "Upgrade to Pro and Unlock Image SEO"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/lite/ImageSeo.vue:123
+msgid "Image SEO is only available for licensed %1$s %2$s users."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/pro/Schema.vue:107
+msgid "Web Page Type"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Taxonomies.vue:59
+msgid "Upgrade to Pro and Unlock Custom Taxonomies"
+msgstr ""
+
+# Translators: 1 - The plugin short name ("AIOSEO"), 2 - "Pro".
+#: src/vue/pages/search-appearance/views/Taxonomies.vue:61
+msgid ""
+"%1$s %2$s lets you set the SEO title and description for custom taxonomies. "
+"You can also control all of the robots meta and other options just like the "
+"default category and tags taxonomies."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Taxonomies.vue:62
+msgid "Custom Taxonomy Support is only available for licensed %1$s %2$s users."
+msgstr ""
+
+#: src/vue/pages/seo-analysis/views/AnalyzeCompetitorSite.vue:111
+msgid "Enter Competitor URL"
+msgstr ""
+
+#: src/vue/pages/seo-analysis/views/AnalyzeCompetitorSite.vue:112
+msgid "Perform in-depth SEO Analysis of your competitor's website."
+msgstr ""
+
+#: src/vue/pages/seo-analysis/views/AnalyzeCompetitorSite.vue:113
+msgid "Analyze"
+msgstr ""
+
+#: src/vue/pages/seo-analysis/views/AnalyzeCompetitorSite.vue:114
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: src/vue/pages/seo-analysis/views/SeoAuditChecklist.vue:67
+msgid "Complete SEO Checklist"
+msgstr ""
+
+#: src/vue/pages/seo-analysis/views/SeoAuditChecklist.vue:80
+msgid "All Items"
+msgstr ""
+
+#: src/vue/store/actions.js:146
+msgid "We couldn't connect to the site, please try again later."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/Advanced.vue:107
+msgid "Robots Meta Settings"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/Advanced.vue:108
+msgid "Bulk Editing"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/Advanced.vue:109
+msgid "Read Only"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/Advanced.vue:110
+msgid "Other Options"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/Advanced.vue:111
+msgid "Show Date in Google Preview"
+msgstr ""
+
+# Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: src/vue/pages/search-appearance/views/partials/TitleDescription.vue:163
+msgid "%1$s Title"
+msgstr ""
+
+# Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: src/vue/pages/search-appearance/views/partials/Advanced.vue:129
+msgid "Show %1$s Thumbnail in Google Custom Search"
+msgstr ""
+
+# Translators: 1 - The plugin name ("All in One SEO")
+#: src/vue/pages/search-appearance/views/partials/Advanced.vue:133
+msgid "Show %1$s Meta Box"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/TitleDescription.vue:144
+msgid "Show in Search Results"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/TitleDescription.vue:145
+msgid "Click on the tags below to insert variables into your title."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/partials/TitleDescription.vue:148
+msgid "Selecting \"No\" will no-index this page."
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Media.vue:106
+msgid "Redirect Attachment URLs"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Media.vue:107
+msgid "Attachment"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Media.vue:108
+msgid "Attachment Parent"
+msgstr ""
+
+#: src/vue/pages/search-appearance/views/Media.vue:109
+msgid ""
+"We recommended redirecting attachment URL's back to the attachment since "
+"the default WordPress attachment pages have little SEO value."
+msgstr ""
